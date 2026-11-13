@@ -34,3 +34,6 @@ node_modules/
 
 # Model weights
 models/
+
+# Extracted frames (rebuilt from data/meta/frames_*.csv)
+data/frames/
