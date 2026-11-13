@@ -40,6 +40,8 @@ from huggingface_hub import HfApi, get_token, hf_hub_download, hf_hub_url
 from PIL import Image
 
 INFO = Path("data/meta/video_info.csv")
+# visurg/LEMON is read at this fixed dataset commit, so later changes to the dataset can't change frames.
+LEMON_REVISION = "bcfb79705a8e0dc20d3c4f79a2c1037d3ed94e2e"
 # video_info.csv rounds fps to 3 decimals; NTSC rates are really 24000/1001, 30000/1001, 60000/1001.
 # The rounding error grows with frame number (~half a frame by 4 h), so snap them to exact values.
 NTSC = [24000 / 1001, 30000 / 1001, 60000 / 1001]
@@ -82,7 +84,8 @@ def extract_local(video_path, frames, out_dir, quality):
 def extract_remote(video_id, frames, fps, out_dir, quality, token):
     """Seek to each frame in the remote file; only the data around it is fetched."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    url = hf_hub_url("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset")
+    url = hf_hub_url("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset",
+                     revision=LEMON_REVISION)
     for f in frames:
         ss = max(0.0, (f - 0.5) / fps)
         subprocess.run(["ffmpeg", "-v", "error", "-y",
@@ -95,7 +98,7 @@ def extract_remote(video_id, frames, fps, out_dir, quality, token):
 def download_and_extract(video_id, frames, out_dir, quality):
     with tempfile.TemporaryDirectory() as tmp:
         path = Path(hf_hub_download("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset",
-                                    local_dir=tmp))
+                                    revision=LEMON_REVISION, local_dir=tmp))
         extract_local(path, frames, out_dir, quality)
 
 
@@ -139,7 +142,7 @@ def main():
 
     out = Path(args.out or f"data/frames/{Path(args.frame_list).stem}")
     out.mkdir(parents=True, exist_ok=True)
-    prov = {"frame_list": args.frame_list, "method": "remote seek" if args.remote else "full decode",
+    prov = {"frame_list": args.frame_list, "lemon_revision": LEMON_REVISION, "method": "remote seek" if args.remote else "full decode",
             "quality": args.quality, "ffmpeg": ffmpeg_version(), "platform": platform.platform()}
     (out / "provenance.json").write_text(json.dumps(prov, indent=2))
     shutil.copy(args.frame_list, out / "frames.csv")

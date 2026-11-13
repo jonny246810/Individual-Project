@@ -39,14 +39,16 @@ equal windows and one frame is picked uniformly at random inside each. Here that
 from each half of every video. Each video has its own random generator, seeded from (0, video id), so its
 frames don't depend on which other videos are selected. Frames are stored as exact frame numbers.
 
-**5. Extract.** Each listed frame is decoded from the original LEMON video and saved as
+**5. Extract.** Videos are read at a fixed LEMON dataset commit (`bcfb797`, set in the scripts), so
+later changes to the dataset can't change the frames. Each listed frame is decoded from the original video and saved as
 `<split>/<youtube_id>/<frame:06d>.jpg` at native resolution (JPEG, ffmpeg `-q:v 2`). With `--remote`,
 ffmpeg seeks inside the file on Hugging Face and fetches only the data around each frame, so no video is
 downloaded; this gives pixel-identical frames to decoding the full video (checked with `--check`).
 
 ## Reproduce
-Needs access to the gated dataset `visurg/LEMON` (log in with `hf auth login`), `ffmpeg`, and
-`pandas numpy pillow huggingface_hub`. Run from the repo root.
+Needs access to the gated dataset `visurg/LEMON` (log in with `hf auth login`), ffmpeg
+(8.0.1 was used; other versions pick the same frames but JPEG bytes may differ slightly), and the
+pinned packages: `python -m pip install -r requirements.txt`. Run from the repo root.
 
 Steps 1–5 are already done: their outputs are committed in `data/meta/`. To get the frames:
 ```bash

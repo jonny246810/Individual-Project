@@ -15,13 +15,15 @@ from pathlib import Path
 
 from huggingface_hub import get_token, hf_hub_url
 
+# visurg/LEMON is read at this fixed dataset commit, so later changes to the dataset can't change frames.
+LEMON_REVISION = "bcfb79705a8e0dc20d3c4f79a2c1037d3ed94e2e"
 LABELS_PATH = Path("data/raw/labels.json")
 OUT = Path("data/meta/video_info.csv")
 FIELDS = ["youtube_id", "duration_s", "fps", "n_frames", "width", "height", "codec", "status"]
 
 
 def probe(video_id, token):
-    url = hf_hub_url("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset")
+    url = hf_hub_url("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset", revision=LEMON_REVISION)
     cmd = ["ffprobe", "-v", "error", "-headers", f"Authorization: Bearer {token}\r\n",
            "-select_streams", "v:0",
            "-show_entries", "stream=codec_name,width,height,avg_frame_rate,nb_frames:format=duration",

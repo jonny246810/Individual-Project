@@ -56,7 +56,7 @@ kNN same-video rate (lower = more mixing across videos):
 
 
 ## Reproduce
-Run from the repo root. Needs `ffmpeg`, and `torch torchvision numpy pandas scikit-learn matplotlib`.
+Run from the repo root. Needs `ffmpeg` and the pinned packages (`python -m pip install -r requirements.txt`).
 Videos go in `data/raw/<set>/` (from the gated HF dataset `visurg/LEMON`) and LemonFM weights in
 `models/lemonfm/lemonfm.pth`. 
 
