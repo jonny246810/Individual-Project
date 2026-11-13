@@ -15,6 +15,9 @@ See `experiments/phase0_frame_sampling/` for why embedding-based selection (clus
 
 The exact list (video, split, frame number) is `data/meta/frames_tr500_va107_te107_cap5_min30_int15_cap2.csv`.
 
+**Frames used in this project.** The 1,428 extracted frames (plus `frames.csv` and `provenance.json`)
+are also kept in a private Hugging Face dataset repo.
+
 ## Method
 
 **1. Video metadata.** LEMON's `labels.json` (procedure types, robotic flag) is read at a pinned
