@@ -49,9 +49,6 @@ ffmpeg seeks inside the file on Hugging Face and fetches only the data around ea
 downloaded; this gives pixel-identical frames to decoding the full video (checked with `--check`).
 
 ## Reproduce
-Needs access to the gated dataset `visurg/LEMON` (log in with `hf auth login`), ffmpeg
-(8.0.1 was used; other versions pick the same frames but JPEG bytes may differ slightly), and the
-pinned packages: `python -m pip install -r requirements.txt`. Run from the repo root.
 
 Steps 1–5 are already done: their outputs are committed in `data/meta/`. To get the frames:
 ```bash
