@@ -1,0 +1,715 @@
+youtube_id,split,rank,channel,channel_url,procedure,all_procedures,robotic,animal,forced_train_reason,duration_s
+lbVIIIMvkUE,train,0,Dr. Nagi Safa,https://www.youtube.com/@nagisafa,adrenalectomy,adrenalectomy,False,False,,807.04
+vn3XK1-6DGY,train,1,Colorectal Disease Journal,https://www.youtube.com/@colorectaldiseasejournal1675,hernia_repair,hernia_repair,False,False,top-10 channel,376.04
+6sH5TlkMV5Q,train,2,sankaqm5,https://www.youtube.com/@sankaqm5,colectomy,colectomy,False,False,,410.043
+dayZXDyW4p0,train,3,Stan Hewlett,https://www.youtube.com/@StanHewlett,ampullectomy,ampullectomy,True,False,,542.075
+POH_6e6T47Q,train,4,Dr. R. K. Mishra,https://www.youtube.com/@DRRKMishra,myomectomy,myomectomy,True,False,top-10 channel,321.021
+KWeYY4p-k9k,train,5,Dr. Nagi Safa,https://www.youtube.com/@nagisafa,nissen_fundoplication,nissen_fundoplication,False,False,,1063.963
+8WMHoCoO14Y,train,6,Harvey,https://www.youtube.com/@harveyrainvillemdfacs4000,gastrectomy,gastrectomy,True,False,,1022.033
+72vUw3Jj3PA,train,7,Dr Devendra Parikh,https://www.youtube.com/@drdevendraparikh.oncologist,abdominoperineal_resection,abdominoperineal_resection,True,False,,1142.074
+mXh1lHrOuz8,train,8,Unitat de Cirurgia HBP de l'Hospital de Sant Pau,https://www.youtube.com/@unitatdecirurgiahbpdelhosp4951,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,1510.04
+q0CnWH2BBC4,train,9,基隆長庚一般外科 Chang Gung Memorial Hospital Keelung,https://www.youtube.com/@changgungmemorialhospitalk672,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,534.034
+VpTFKJA5enY,train,10,Bhanoo Hospital & Eye Care Centre,https://www.youtube.com/@bhanoohospitals6011,appendectomy,appendectomy,False,False,,724.057
+PVuBZxqjh-o,train,11,ASVIDE,https://www.youtube.com/@asvide6238,thymectomy,thymectomy,False,False,top-10 channel,218.04
+xhGRcNBXr1o,train,12,Surgical Education for the Patient,https://www.youtube.com/@ATXSurgeon,adrenalectomy,adrenalectomy,True,False,,2800.064
+QlN2KX623ig,train,13,Madarasz Zsolt,https://www.youtube.com/@madaraszzsolt1100,appendectomy,appendectomy,False,False,,286.04
+xRMXcj7iPHs,train,14,"Dr. med. Ibrahim Darwich, MD",https://www.youtube.com/@dr.med.ibrahimdarwichmd5415,colectomy,colectomy,False,False,,746.079
+7ognlti09zQ,train,15,Prejesh,https://www.youtube.com/@drprejesh,esophagectomy,esophagectomy,True,False,,531.998
+1qkh4pVZTAk,train,16,Edwin S Menor M.D.,https://www.youtube.com/@edwinsmenorm.d.7350,jejunostomy,jejunostomy,True,False,,637.036
+SkUwWkwsIu8,train,17,sacmisaz,https://www.youtube.com/@sacmisaz,jejunostomy,jejunostomy,False,False,,220.033
+ulpFGJ7rNtc,train,18,Joboy Fuentex,https://www.youtube.com/@JoboyFuentex,abdominoperineal_resection,abdominoperineal_resection,False,False,,905.04
+8WKb09Nngu4,train,19,Abubaker Ali,https://www.youtube.com/@abubakerali2699,splenectomy,splenectomy,True,False,,1017.116
+uLZgoh0JCqE,train,20,Vivek Singla,https://www.youtube.com/@vivek2singla,cystectomy,cystectomy,False,False,,680.013
+i_LZvJvRq4U,train,21,Cirurgia Robótica Geral e do Aparelho Digestivo,https://www.youtube.com/@dr.fernandoconciliomauro,splenectomy,splenectomy,True,False,,2164.029
+nrsggeebm8E,train,22,SAGES - Minimally Invasive Surgery Videos,https://www.youtube.com/@SAGESVideo,hernia_repair,hernia_repair,False,False,top-10 channel,178.045
+kTxhA1H3J28,train,23,,,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,no channel,51.04
+05kS3byo6DE,train,24,Dr. Daniel A. Popowich @ Minimally Invasive Surgeon,https://www.youtube.com/@danielpopowichthesurgeon,colectomy,colectomy,True,False,top-10 channel,696.029
+EwBaHIJCzY8,train,25,SAGES - Minimally Invasive Surgery Videos,https://www.youtube.com/@SAGESVideo,gastrectomy,gastrectomy,False,False,top-10 channel,373.039
+GOaSC25PBGE,train,26,Victor Phuoc,https://www.youtube.com/@victorphuoc7982,low_anterior_resection,low_anterior_resection,True,False,,1876.007
+KvIZC3CrxM8,train,27,Gustavo Sevá-Pereira,https://www.youtube.com/@gustavoseva,low_anterior_resection,low_anterior_resection,False,False,,424.04
+JnKpE8D9MtU,train,28,Massimo Giuseppe Viola,https://www.youtube.com/@massimogiuseppeviola6799,splenectomy,splenectomy,False,False,,425.04
+gwVnGs9p-h0,train,29,Memorial Healthcare System,https://www.youtube.com/@MemorialHealthcare,gastric_bypass,gastric_bypass,False,False,,321.054
+uA0KuP-CgSo,train,30,ASVIDE,https://www.youtube.com/@asvide6238,adrenalectomy,adrenalectomy,True,False,top-10 channel,317.04
+d4AbqNbE73o,train,31,Dr. Ben White,https://www.youtube.com/@dr.benwhite9689,gastric_bypass,gastric_bypass,True,False,,679.045
+FbxhZg_-bZY,train,32,Robotic Thoracic-Foregut Surgeon,https://www.youtube.com/@roboticthoracic-foregutsur1507,hernia_repair,hernia_repair,True,False,,4836.999
+MWsD2zxNmYA,train,33,Chee Yung Ng,https://www.youtube.com/@cheeyungng2588,colectomy,colectomy,False,False,,326.04
+iO59Bcqm-KM,train,34,Dr. Nagi Safa,https://www.youtube.com/@nagisafa,jejunostomy,jejunostomy|gastric_bypass,False,False,,878.044
+kyIUmBnolZE,train,35,Dr Archit Pandit,https://www.youtube.com/@drarchitpanditminimallyinv1528,esophagectomy,esophagectomy,False,False,,515.04
+5RRqHqqvB-g,train,36,"Travis W. McCoy, MD",https://www.youtube.com/@travismccoymd,cystectomy,cystectomy,False,False,,506.072
+NKa1jpN3tzE,train,37,Sergey Lyass,https://www.youtube.com/@sergeylyass4666,gastric_bypass,gastric_bypass,True,False,,626.033
+n9DTvgLRKLA,train,38,Dr. Christopher Manieri,https://www.youtube.com/@dr.christophermanieri3050,small_bowel_resection,small_bowel_resection,False,False,,239.039
+Yly-N84FqH4,train,39,CRESPY Thomas,https://www.youtube.com/@crespythomas4285,small_bowel_resection,small_bowel_resection,False,False,,175.05
+NVXSOfidrCs,train,40,Nabil Moulay,https://www.youtube.com/@docteurmoulay,myomectomy,myomectomy,False,False,top-10 channel,804.04
+_y8S3TsQ86M,train,41,ashwin thangavelu,https://www.youtube.com/@ashwinthangavelu,hernia_repair,hernia_repair,False,False,,1142.04
+c7IYK-TOzfE,train,42,Victor Phuoc,https://www.youtube.com/@victorphuoc7982,esophagectomy,esophagectomy,True,False,,1402.034
+24Nljub5VUk,train,43,Dr. Daniel A. Popowich @ Minimally Invasive Surgeon,https://www.youtube.com/@danielpopowichthesurgeon,hernia_repair,hernia_repair,True,False,top-10 channel,970.036
+aRsL4H7BWnY,train,44,Vattikuti Foundation,https://www.youtube.com/@vattikutifoundation1149,adhesiolysis,adhesiolysis,True,False,,57.024
+ivHCZyeD3Nc,train,45,Geelong Heart and Lung,https://www.youtube.com/@GeelongHeartandLung,thymectomy,thymectomy,True,False,,274.041
+wOzBS-Z1bbY,train,46,Longstreet Clinic,https://www.youtube.com/@Longstreetclinic,duodenal_switch,duodenal_switch,False,False,,1125.041
+wcKH0DkID20,train,47,David Chan,https://www.youtube.com/@dchan023,gastrectomy,gastrectomy,True,False,,254.02
+EgetTUE4r44,train,48,Dr vinod chaudhary,https://www.youtube.com/@Drvinodchaudhary,appendectomy,appendectomy,False,False,,329.033
+SlgTVJfWCF4,train,49,Vattikuti Foundation,https://www.youtube.com/@vattikutifoundation1149,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,332.04
+rF0ceekGMzI,train,50,"Abubaker Ali, MD, FACS",https://www.youtube.com/@abubakeralimdfacs8798,gastrectomy,gastrectomy,True,False,top-10 channel,333.066
+AMu-Z9FHTfE,train,51,ASVIDE,https://www.youtube.com/@asvide6238,thymectomy,thymectomy,False,False,top-10 channel,728.04
+ZZtAksT0Oac,train,52,"Garrison B. Smith, MD, FACS",https://www.youtube.com/@zulu1700,jejunostomy,jejunostomy,True,False,,1725.023
+wM0vgdygvBA,train,53,Dr. Daniel A. Popowich @ Minimally Invasive Surgeon,https://www.youtube.com/@danielpopowichthesurgeon,colectomy,colectomy,True,False,top-10 channel,610.043
+ijntWfOpukk,train,54,Dr Bhushan Chittawadagi,https://www.youtube.com/@drbhushanchittawadagi9827,hernia_repair,hernia_repair,False,False,,622.033
+QcJoY-5QrQM,train,55,SAGES - Minimally Invasive Surgery Videos,https://www.youtube.com/@SAGESVideo,ampullectomy,ampullectomy,True,False,top-10 channel,336.036
+nnBivyiP3xE,train,56,KidneyRobotics,https://www.youtube.com/@KidneyRobotics,nephrectomy,nephrectomy,True,False,,92.025
+a0hmbX7LTQg,train,57,MIC Heidelberg,https://www.youtube.com/@micheidelberg8059,esophagectomy,esophagectomy,False,False,,344.04
+UgxM0qrns_o,train,58,Sorin Cimpean,https://www.youtube.com/@sorincimpean7294,ulcer_repair,ulcer_repair,False,False,,236.036
+EDk4UHm3jnA,train,59,Prof. Mohamed Kassem عيادة أ.د محمد ابراهيم قاسم (‫أ.د محمد ابراهيم قاسم‬‎),https://www.youtube.com/@prof.mohamedkassem.5116,appendectomy,appendectomy|cholecystectomy,False,False,,320.07
+zqfMFd3OiDA,train,60,Alexandre Chartuni,https://www.youtube.com/@AlexandreChartuni,gastrectomy,gastrectomy,True,False,,983.033
+aiSlCiz1pF8,train,61,Marcello G. Spampinato,https://www.youtube.com/@marcellospampinato,pancreatectomy,pancreatectomy,True,False,,390.04
+pPQWbsecw5Q,train,62,"Dr. Richard Fortunato, Colorectal Surgeon",https://www.youtube.com/@dr.richardfortunatocolorec9095,colectomy,colectomy,True,False,,231.033
+pUVkLLcRUKk,train,63,SAGES - Minimally Invasive Surgery Videos,https://www.youtube.com/@SAGESVideo,gastrectomy,gastrectomy,False,False,top-10 channel,350.05
+youaay8ehT4,train,64,Dr Hiren Parmar,https://www.youtube.com/@drheerenparmar,nephrectomy,nephrectomy|kidney_transplant,False,False,,1131.033
+zHKjtsNjRUo,train,65,Dr Nara,https://www.youtube.com/@drnara,thymectomy,thymectomy,False,False,,751.033
+VvqXqaeuKk4,train,66,DFW Bariatrics and General Surgery - Kukreja MD,https://www.youtube.com/@dfwbariatrics,hernia_repair,hernia_repair|nissen_fundoplication,True,False,,318.051
+APreCdL4fMY,train,67,Colorectal Disease Journal,https://www.youtube.com/@colorectaldiseasejournal1675,colectomy,colectomy,False,False,top-10 channel,488.054
+93adY8sXyuo,train,68,Dr. Daniel A. Popowich @ Minimally Invasive Surgeon,https://www.youtube.com/@danielpopowichthesurgeon,colectomy,colectomy,True,False,top-10 channel,857.023
+7GkURFYwSr8,train,69,Colorectal Disease Journal,https://www.youtube.com/@colorectaldiseasejournal1675,rectopexy,rectopexy,False,False,top-10 channel,253.033
+sQxrcvlheiE,train,70,Dr. Daniel A. Popowich @ Minimally Invasive Surgeon,https://www.youtube.com/@danielpopowichthesurgeon,appendectomy,appendectomy,False,False,top-10 channel,153.02
+oLzsYmAmkeo,train,71,Veterinary Endoscopy and Endosurgery,https://www.youtube.com/@chernandezvet,nephrectomy,nephrectomy,False,True,animal,172.039
+CU1iVY3NhN4,train,72,,,myomectomy,myomectomy,False,False,no channel,617.016
+EK7C2VUkf_Q,train,73,"Elliot Servais, MD, FACS - Thoracic Surgery",https://www.youtube.com/@elliotservaismdfacs-thorac4706,thymectomy,thymectomy,True,False,,138.038
+yY0ek4JwIZM,train,74,Remzi Aktürk,https://www.youtube.com/@Do%C3%A7.Dr.RemziAkt%C3%BCrk,appendectomy,appendectomy,False,False,,1253.04
+_LJ1C_8YT94,train,75,"Matthew Huk, MD",https://www.youtube.com/@capnhuk1009,ileorectal_anastomosis,ileorectal_anastomosis,False,False,,997.096
+OzTD7NcN1gw,train,76,Amro Elhoussieny,https://www.youtube.com/@amroelhoussieny9505,hysterectomy,hysterectomy,False,False,,263.063
+eH_WLmCiaaE,train,77,,,appendectomy,appendectomy,False,False,no channel,114.04
+ravrzONCHEI,train,78,BURSA ÜROLOJİ,https://www.youtube.com/@drahmetsahan,ileorectal_anastomosis,ileorectal_anastomosis,False,False,,396.029
+pporb3n6qrA,train,79,Paul Wetter,https://www.youtube.com/@SLSUploadVideo,gastrectomy,gastrectomy,True,False,,199.032
+fd1xO3gybhU,train,80,Professor Riccardo Memeo,https://www.youtube.com/@riccardomemeo_robotic,ampullectomy,ampullectomy,False,False,,148.033
+EqtoJlKIUBA,train,82,drsreedhara,https://www.youtube.com/@142sreedhara,splenectomy,splenectomy,False,False,,469.04
+2S8V0jajhVw,train,83,Mathew Severidt,https://www.youtube.com/@mathewseveridt3172,cholecystectomy,cholecystectomy,True,False,,370.033
+5J_JxqOegDM,train,84,CTSNetVideo,https://www.youtube.com/@CTSNetVideo,thymectomy,thymectomy,True,False,top-10 channel,1024.023
+iOIu9T6XZJM,train,85,Duke Center for Surgical Innovation,https://www.youtube.com/@DukeEndosurgery,splenectomy,splenectomy|pancreatectomy,False,False,,231.042
+vNItrrN590M,train,87,amol nikam,https://www.youtube.com/@amolcnikam,adhesiolysis,adhesiolysis,False,False,,241.033
+GRwnQ_dpNCc,train,88,SAGES - Minimally Invasive Surgery Videos,https://www.youtube.com/@SAGESVideo,low_anterior_resection,low_anterior_resection|gastrectomy,False,False,top-10 channel,400.033
+m2nw-bAimEs,train,89,Dr Anshuman Kaushal ,https://www.youtube.com/@theangry_doc,nissen_fundoplication,nissen_fundoplication,False,False,,1961.04
+EIDZcHft1EY,train,90,Amit Taggar,https://www.youtube.com/@AmitTaggar,thymectomy,thymectomy,True,False,,224.057
+4gGOxCrR1Mc,train,91,"Elizabeth Coronado, MD",https://www.youtube.com/@elizabethcoronadomd7861,hysterectomy,hysterectomy,True,False,,353.053
+lwwPaZBC4e0,train,92,Dr. R. K. Mishra,https://www.youtube.com/@DRRKMishra,hernia_repair,hernia_repair,False,False,top-10 channel,874.04
+ELJXfxfWGo8,train,93,Veterinary Endoscopy and Endosurgery,https://www.youtube.com/@chernandezvet,splenectomy,splenectomy,False,True,animal,73.04
+csojvd7ZapU,train,94,Dr. R. K. Mishra,https://www.youtube.com/@DRRKMishra,hernia_repair,hernia_repair,False,False,top-10 channel,662.028
+236wiZ6ErVs,train,95,Dr. Niranjan Chavan,https://www.youtube.com/@nnchavan22,cystectomy,cystectomy,False,False,,59.059
+i8UhCAQBMGo,train,96,dr Lopez laurent urology   Bordeaux St Augustin,https://www.youtube.com/@drlopezlaurenturologyborde7909,nephrectomy,nephrectomy,True,False,,389.022
+abh8wjhhaIE,train,98,SURGICAL OASIS INSTITUTE Dr Iraniha Robotic Surgery,https://www.youtube.com/@SURGICALOASISNewportBeach,hernia_repair,hernia_repair,False,False,,48.033
+MtJy8JpS6A8,train,99,Urology Times,https://www.youtube.com/@UrologyTimes,cystectomy,cystectomy,True,False,,562.029
+f7cLkb9yHZc,train,100,"Elliot Servais, MD, FACS - Thoracic Surgery",https://www.youtube.com/@elliotservaismdfacs-thorac4706,esophagectomy,esophagectomy,True,False,,93.06
+sRVJ6qvv8Co,train,101,Hüseyin Altuntaş,https://www.youtube.com/@huseyinaltuntas979,hysterectomy,hysterectomy,False,False,,276.042
+qWj5vtzyz0s,train,102,Laparoscopic / Robotic Surgery,https://www.youtube.com/@Laparoskopik,jejunostomy,jejunostomy,False,False,,423.033
+sB1d9zM-CII,train,103,da Vinci Thoracic Surgery,https://www.youtube.com/@davincithoracicsurgery,thymectomy,thymectomy,True,False,,1600.032
+QcM7DI2ULNo,train,104,Ravi Kanojia,https://www.youtube.com/@clickravi,thymectomy,thymectomy,False,False,,42.0
+cGI3o9aqtjg,train,105,"Prof. M Fatih Can, MD, FACS, FEBS ///",https://www.youtube.com/@mfcanmd1,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,790.0
+Cg3xMRjMves,train,106,"Garrison B. Smith, MD, FACS",https://www.youtube.com/@zulu1700,gastric_bypass,gastric_bypass,True,False,,327.06
+2N0-fzpFs2Y,train,107,DFW Bariatrics and General Surgery - Kukreja MD,https://www.youtube.com/@dfwbariatrics,gastric_bypass,gastric_bypass,True,False,,1019.051
+gxZwX7KHTFA,train,109,Urology Academic Practice,https://www.youtube.com/@urologyacademicpractice4942,prostatectomy,prostatectomy,True,False,,243.043
+SvjUCuHt8Y0,train,111,Aleksei Sakharov,https://www.youtube.com/@alekseisakharov214,abdominoperineal_resection,abdominoperineal_resection,False,False,,4610.072
+res4C7Km4eQ,train,112,ChandruSundaramMD,https://www.youtube.com/@ChandruSundaramMD,nephrectomy,nephrectomy,True,False,,3938.001
+a2Z-Jc4AQqY,train,113,Dr. Wail Alqatta,https://www.youtube.com/@qattaw,nissen_fundoplication,nissen_fundoplication,False,False,,403.103
+xNhO3s-gvDA,train,114,Dr. Emin Bayramov,https://www.youtube.com/@dr.eminbayramov,nissen_fundoplication,nissen_fundoplication,False,False,,2662.059
+49BG2I1W2JE,train,115,Charles Anderson,https://www.youtube.com/@charlesandersonmd,hernia_repair,hernia_repair,True,False,,443.04
+d4boccr582Y,train,116,Pradeepta Barai,https://www.youtube.com/@surgerybypradeeptabarai,rectopexy,rectopexy,False,False,,472.04
+7k1EwHgjrzI,train,117,Dr. Christopher Manieri,https://www.youtube.com/@dr.christophermanieri3050,gastric_bypass,gastric_bypass,True,False,,594.033
+JY0xOFSJuXk,train,118,Dr. R. K. Mishra,https://www.youtube.com/@DRRKMishra,hernia_repair,hernia_repair,False,False,top-10 channel,1372.04
+LMpIrSpHt68,train,119,LMDarlong,https://www.youtube.com/@LMDarlong,esophagectomy,esophagectomy,True,False,,568.034
+wtlI6HwM8Kc,train,120,Kiron Bhatia,https://www.youtube.com/@kironbhatia8022,hernia_repair,hernia_repair|nissen_fundoplication,True,False,,284.05
+jCRj14kXS9U,train,122,Steven Fass,https://www.youtube.com/@stevenfass5364,nissen_fundoplication,nissen_fundoplication,True,False,,306.056
+kPYADv9xiz8,train,123,Hugo H Davila,https://www.youtube.com/@HDurology,hernia_repair,hernia_repair,True,False,,147.04
+Gc26vxBn12M,train,124,Naveen Kella,https://www.youtube.com/@NaveenKellaMD,prostatectomy,prostatectomy,True,False,,4431.093
+nDuKZAibgrc,train,125,anusak yieng,https://www.youtube.com/@yienga1,colectomy,colectomy,True,False,,2250.984
+f269PTGZ6Es,train,126,Dr MC Conradie,https://www.youtube.com/@drmcconradie,nephrectomy,nephrectomy,False,False,,834.04
+o2UHQZQY_p4,train,128,DFW Bariatrics and General Surgery - Kukreja MD,https://www.youtube.com/@dfwbariatrics,nissen_fundoplication,nissen_fundoplication,True,False,,449.049
+g-IR0V-gWiY,train,129,"Dr Jan P Kaminski, MD, MBA",https://www.youtube.com/@drjanpkaminskimdmba9256,low_anterior_resection,low_anterior_resection,True,False,,513.046
+V5N5KNDAl2k,train,130,РКБ им.Н.А.Семашко г.Улан-Удэ,https://www.youtube.com/@%D0%A0%D0%9A%D0%91%D0%B8%D0%BC.%D0%9D.%D0%90.%D0%A1%D0%B5%D0%BC%D0%B0%D1%88%D0%BA%D0%BE%D0%B3.%D0%A3%D0%BB%D0%B0%D0%BD-%D0%A3%D0%B4%D1%8D,ampullectomy,ampullectomy,False,False,,371.04
+0oWXeZ1jajA,train,131,Joel Dunning,https://www.youtube.com/@joeldunning001,thymectomy,thymectomy,True,False,,1130.963
+6y9r8xkQhaM,train,132,Dr. Patrick Kenney,https://www.youtube.com/@dr.patrickkenney3326,adrenalectomy,adrenalectomy,True,False,,871.037
+3RZMLeRT5qs,train,133,Ilgar Ismayilov,https://www.youtube.com/@IlgarIsmayilov,colectomy,colectomy|ileorectal_anastomosis,False,False,top-10 channel,622.033
+thlnxu6kBjQ,train,134,Robotic HPB Surgery Belgium (Robot Lever Pancreas),https://www.youtube.com/@robotichpbsurgerybelgium3435,hepatectomy,hepatectomy,True,False,,236.033
+kbEDwmiHnW8,train,135,Rob Surgical ,https://www.youtube.com/@robsurgicalsystems5719,thymectomy,thymectomy,True,False,,186.053
+F1Vdm7eKpU8,train,136,,,myomectomy,myomectomy,False,False,no channel,362.996
+NrbdO2zPcPc,train,137,Zenon Pogorelic,https://www.youtube.com/@zpogorelic,splenectomy,splenectomy,False,False,,568.001
+RYmDSVpvnxM,train,138,"Dr. Richard Fortunato, Colorectal Surgeon",https://www.youtube.com/@dr.richardfortunatocolorec9095,ileocolic_resection,ileocolic_resection,True,False,,71.033
+USp4wJzFHKE,train,139,Dr. Sergey Baydo,https://www.youtube.com/@DrSergeyBaydo,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,7701.894
+bYxJk4hN4o0,train,140,"Pr Jean Alexandre Long, MD,PhD",https://www.youtube.com/@jeanalexandrelong9802,cystectomy,cystectomy,True,False,,495.028
+rqk-q8FLtk0,train,141,Ravi Kanojia,https://www.youtube.com/@clickravi,splenectomy,splenectomy,False,False,,410.043
+9RkECuVSsvw,train,142,"Sepehr Lalezari, MD",https://www.youtube.com/@DrLalezari,hernia_repair,hernia_repair,False,False,,333.066
+ROzbf5_KDBY,train,143,Dr. Atul Mishra,https://www.youtube.com/@dr.atulmishra6848,low_anterior_resection,low_anterior_resection,False,False,,323.023
+Uu_BaOj7anw,train,144,Stefan Benz,https://www.youtube.com/@stefanbenz7248,colectomy,colectomy,False,False,,454.02
+LbBaIrZztIc,train,145,Thoracic Surgery Online - David Rice,https://www.youtube.com/@thoracicsurgeryonline-davi9062,thymectomy,thymectomy,True,False,,160.06
+ht7qxMPE00Q,train,146,Dr. R. K. Mishra,https://www.youtube.com/@DRRKMishra,nissen_fundoplication,nissen_fundoplication,False,False,top-10 channel,810.033
+tG9138FlJjQ,train,147,Dr Tan Teck Wei,https://www.youtube.com/@drtanteckwei,cystectomy,cystectomy,True,False,,81.04
+ykuQyuf7Zyc,train,148,Hugo H Davila,https://www.youtube.com/@HDurology,nephrectomy,nephrectomy,True,False,,1123.055
+5aSGAj6S1vs,train,149,Mathew Severidt,https://www.youtube.com/@mathewseveridt3172,nissen_fundoplication,nissen_fundoplication,True,False,,543.033
+5oqBEmo4o5s,train,150,Prof.Dr. Ural OĞUZ,https://www.youtube.com/@doc.dr.uraloguz2687,nephrectomy,nephrectomy,False,False,,911.043
+7TONn2-swBc,train,151,The Crawford Clinic,https://www.youtube.com/@surgeryinboots,appendectomy,appendectomy,False,False,,61.061
+pGPSHPZhpwU,train,153,Martin Paul,https://www.youtube.com/@mgpaulmd,splenectomy,splenectomy,False,False,,228.033
+dFV96gt5bhQ,train,154,Steven Fass,https://www.youtube.com/@stevenfass5364,nissen_fundoplication,nissen_fundoplication,True,False,,454.054
+y15KMFZhCYM,train,155,Prof.Dr. Mert Mahsuni SEVİNÇ,https://www.youtube.com/@dr.mertmahsunisevinc2057,appendectomy,appendectomy,False,False,,236.036
+lYnX8FA5I78,train,156,Forrest Ringold,https://www.youtube.com/@forrestringold5086,gastric_bypass,gastric_bypass,True,False,,1352.033
+FWWfjjXIws8,train,157,"Fabian RECHE, MD, FASMBS",https://www.youtube.com/@fabianreche38,gastrectomy,gastrectomy,True,False,,604.04
+R_QyA1P5jSo,train,158,Devendra Taide,https://www.youtube.com/@bigd9644,cystectomy,cystectomy,False,False,,1849.014
+phqYq4rUtPo,train,159,Professor Riccardo Memeo,https://www.youtube.com/@riccardomemeo_robotic,hepatectomy,hepatectomy,False,False,,498.042
+JdpmvH3pasI,train,160,,,adhesiolysis,adhesiolysis,False,False,no channel,227.027
+Mo7nbVVxnSQ,train,161,CTSNetVideo,https://www.youtube.com/@CTSNetVideo,thymectomy,thymectomy,False,False,top-10 channel,478.011
+VlsJkDMSZL0,train,162,Robotic HPB Surgery Belgium (Robot Lever Pancreas),https://www.youtube.com/@robotichpbsurgerybelgium3435,hepatectomy,hepatectomy,True,False,,381.033
+yJAEcjekEno,train,163,Dr.Yingchi Robotic & Laparoscopic Gyne Surgery ,https://www.youtube.com/@chutipapaandjiraphatwanggy1340,hysterectomy,hysterectomy,False,False,,842.0
+qx1Ev2ecqMY,train,166,Dr Gursev: Centre for Advanced Pediatric Surgery,https://www.youtube.com/@drgursev,appendectomy,appendectomy,False,False,,707.033
+4Jhn1FpPZuk,train,167,Austin Robotic Collaboration,https://www.youtube.com/@austinroboticcollaboration4896,colectomy,colectomy,True,False,,153.02
+3EC-B8U0SpA,train,168,,,low_anterior_resection,low_anterior_resection,False,False,no channel,733.033
+VDmVPKrd9HQ,train,169,"Tomasz D. Gutowski, MD",https://www.youtube.com/@TomaszDGutowskiMDModesto,splenectomy,splenectomy,True,False,,788.087
+eC8hEzEVO6Y,train,170,MedFreelancers,https://www.youtube.com/@MedFreelancers,adrenalectomy,adrenalectomy,False,False,top-10 channel,212.045
+dC-7XyXL90Q,train,172,,,hernia_repair,hernia_repair|nissen_fundoplication,False,False,no channel,736.035
+Te4QHMapGUg,train,173,MedFreelancers,https://www.youtube.com/@MedFreelancers,cystectomy,cystectomy,False,False,top-10 channel,241.041
+JnvcIZzPCVA,train,174,Ilgar Ismayilov,https://www.youtube.com/@IlgarIsmayilov,ileocolic_resection,ileocolic_resection,False,False,top-10 channel,326.04
+9Qq92D22JSA,train,175,Dr. Wail Alqatta,https://www.youtube.com/@qattaw,appendectomy,appendectomy,False,False,,123.023
+C0ZN3ScFnZc,train,176,LIMA HOSPITALS,https://www.youtube.com/@limahospitals6657,esophagectomy,esophagectomy,False,False,,182.0
+4Pr4Bom659g,train,177,Northwestern Surgical Associates - Dr. Fronza,https://www.youtube.com/@NorthwesternSurgicalAssoicates,colectomy,colectomy,False,False,,595.028
+w8bXAMCE--o,train,178,Colorectal Disease Journal,https://www.youtube.com/@colorectaldiseasejournal1675,colectomy,colectomy,True,False,top-10 channel,248.039
+xR4o8eDgPJE,train,179,ΚΑΡΕΤΣΟΣ ΧΡΗΣΤΟΣ ΧΕΙΡΟΥΡΓΟΣ ΠΑΙΔΩΝ,https://www.youtube.com/@%CE%9A%CE%91%CE%A1%CE%95%CE%A4%CE%A3%CE%9F%CE%A3%CE%A7%CE%A1%CE%97%CE%A3%CE%A4%CE%9F%CE%A3%CE%A7%CE%95%CE%99%CE%A1%CE%9F%CE%A5%CE%A1%CE%93%CE%9F%CE%A3%CE%A0%CE%91%CE%99%CE%94%CE%A9,appendectomy,appendectomy,False,False,,1007.033
+91mmDm6J_Q4,train,180,ahmed elgeidie,https://www.youtube.com/@drahmedraoaf,gastric_bypass,gastric_bypass,False,False,,465.031
+HucR3EDf5Fc,train,181,Colorectal Disease Journal,https://www.youtube.com/@colorectaldiseasejournal1675,colectomy,colectomy,True,False,top-10 channel,245.012
+0-lW5-T3eR8,train,182,Dr. Husain Abbas - Bariatric Surgeon ,https://www.youtube.com/@DrHusainAbbas,colectomy,colectomy,True,False,,1067.04
+3s93vUIFDaI,train,184,Hyungmin Jung MD,https://www.youtube.com/@hyungminjungmd8818,appendectomy,appendectomy,True,False,,403.036
+WMVOI6Tu2Do,train,185,Devendra Taide,https://www.youtube.com/@bigd9644,adhesiolysis,adhesiolysis,False,False,,696.996
+Aor7u6ks5Jo,train,187,"Abubaker Ali, MD, FACS",https://www.youtube.com/@abubakeralimdfacs8798,hernia_repair,hernia_repair,True,False,top-10 channel,2142.04
+5z8E8m27MJY,train,190,,,adrenalectomy,adrenalectomy,False,False,no channel,560.04
+twgodgryhu0,train,191,Surakshith Battina,https://www.youtube.com/@dr_baby_maker,adhesiolysis,adhesiolysis,False,False,,80.04
+av78HexByVU,train,192,Dr. Eduard Galliamov,https://www.youtube.com/@DrEduardGalliamov,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,12202.09
+zZJ-uB8kC_s,train,194,Fondazione Vincenzo Pansadoro,https://www.youtube.com/@fondazionevincenzopansador1445,nephrectomy,nephrectomy,False,False,,1800.04
+oxTuTPi-Q64,train,196,Drs. Ross Rosemurgy Sucandy,https://www.youtube.com/@drs.rossrosemurgysucandy6130,adrenalectomy,adrenalectomy,False,False,,276.977
+_MHG0fNV3Fc,train,197,Dr Anshuman Kaushal ,https://www.youtube.com/@theangry_doc,cholecystectomy,cholecystectomy,False,False,,341.007
+tiZY3K9A_No,train,198,MedFreelancers,https://www.youtube.com/@MedFreelancers,adrenalectomy,adrenalectomy,True,False,top-10 channel,219.019
+CQruv76scPk,train,199,MedFreelancers,https://www.youtube.com/@MedFreelancers,nephrectomy,nephrectomy|kidney_transplant,False,False,top-10 channel,393.04
+G3zv0yFTS2I,train,200,Dr Anshuman Kaushal ,https://www.youtube.com/@theangry_doc,hernia_repair,hernia_repair,False,False,,696.095
+NitKIjCcS7U,train,201,The Prostate Clinic,https://www.youtube.com/@TheProstateClinicTPC,prostatectomy,prostatectomy,True,False,,342.042
+W5uzRj1Emzs,train,202,The Colorectal Surgeon,https://www.youtube.com/@thecolorectalsurgeon,low_anterior_resection,low_anterior_resection,True,False,,183.033
+A8maTO4v9Iw,train,203,Rajesh Ahlawat,https://www.youtube.com/@rajeshkahlawat,nephrectomy,nephrectomy,True,False,,437.003
+Q917X8SCuK8,train,204,ASVIDE,https://www.youtube.com/@asvide6238,thymectomy,thymectomy,False,False,top-10 channel,892.04
+wwqBZ_gP8NY,train,205,SURGICAL OASIS INSTITUTE Dr Iraniha Robotic Surgery,https://www.youtube.com/@SURGICALOASISNewportBeach,hernia_repair,hernia_repair,True,False,,412.012
+An3dDRhJzSE,train,207,"Prof. M Fatih Can, MD, FACS, FEBS ///",https://www.youtube.com/@mfcanmd1,low_anterior_resection,low_anterior_resection,False,False,,360.033
+t_sWUUjw3CM,train,208,Michael-Anthony Ferrato,https://www.youtube.com/@michael-anthonyferrato5796,ulcer_repair,ulcer_repair,False,False,,67.034
+MtvH_vAk4qI,train,209,MedFreelancers,https://www.youtube.com/@MedFreelancers,cystectomy,cystectomy,False,False,top-10 channel,581.04
+0Os2QeiohK4,train,210,Drs. Ross Rosemurgy Sucandy,https://www.youtube.com/@drs.rossrosemurgysucandy6130,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,414.014
+MdNCGdX4v0A,train,211,Forrest Ringold,https://www.youtube.com/@forrestringold5086,hernia_repair,hernia_repair|cholecystectomy|gastric_bypass,True,False,,1500.033
+GT0yYy_kfqc,train,212,Djakhongir Nazarov,https://www.youtube.com/@djakhongirnazarov,nephrectomy,nephrectomy,False,False,,319.04
+_BnrOFvG9Zs,train,213,Victor Phuoc,https://www.youtube.com/@victorphuoc7982,jejunostomy,jejunostomy,True,False,,292.058
+I3ELNMmnItc,train,214,Dr. Khabas G.,https://www.youtube.com/@dr.khabasg.326,hysterectomy,hysterectomy,False,False,,117.04
+J2aQL8r51cI,train,215,Professor Dr Khalid Javeed Khan,https://www.youtube.com/@hafzoyzain,cystectomy,cystectomy,False,False,,384.017
+Du2CEVp8YgU,train,216,ONCOLIFE Medical Center,https://www.youtube.com/@ONCOLIFEMedicalCenter,thymectomy,thymectomy,False,False,,2873.003
+Gr5F__a90NY,train,217,One Surgical Specialists,https://www.youtube.com/@onesurgicalspecialists9241,appendectomy,appendectomy,True,False,,190.023
+dUWlxQN6qiM,train,219,Fondazione Vincenzo Pansadoro,https://www.youtube.com/@fondazionevincenzopansador1445,nephrectomy,nephrectomy,False,False,,3584.04
+CkGxOrRyFU0,train,221,Sorin Cimpean,https://www.youtube.com/@sorincimpean7294,hernia_repair,hernia_repair,False,False,,319.033
+7-HZvAUvRiE,train,222,Doc Andrés,https://www.youtube.com/@vizcachota,appendectomy,appendectomy,False,False,,245.045
+b69Dpn8Ojig,train,223,Dr. Emin Bayramov,https://www.youtube.com/@dr.eminbayramov,cholecystectomy,cholecystectomy,False,False,,2012.04
+J57LyYhjqQg,train,225,Dr Pradeep Jaiswal,https://www.youtube.com/@drpradeepjaiswal6374,adrenalectomy,adrenalectomy,False,False,,285.051
+9e0CoeUhLP4,train,226,Charles Anderson,https://www.youtube.com/@charlesandersonmd,pulmonary_lobectomy,pulmonary_lobectomy,True,False,,258.133
+CgqNIpVrb4I,train,227,Kipnis Surgery,https://www.youtube.com/@kipnissurgery,low_anterior_resection,low_anterior_resection,True,False,,1335.033
+C1x6FO5szD4,train,228,Dr Avishek Bhadra,https://www.youtube.com/@dravishekbhadra,hysterectomy,hysterectomy|adhesiolysis,False,False,,1126.033
+MoVUqfWKtGw,train,229,Dr Sanket Pisat,https://www.youtube.com/@drsanketpisat,myomectomy,myomectomy,False,False,,943.04
+c4d9KIVAuIs,train,230,Amanda Mueller,https://www.youtube.com/@amandamueller345,splenectomy,splenectomy|pancreatectomy,False,False,,303.036
+OqfK844VuC4,train,231,Andrea Peri (Dr.),https://www.youtube.com/@peria2008,gastrectomy,gastrectomy,False,False,,491.0
+ofrKPWdPTVE,train,232,Brad Snyder,https://www.youtube.com/@drbsnyder,nissen_fundoplication,nissen_fundoplication,True,False,,889.055
+q_pWF2AIq24,train,233,,,hernia_repair,hernia_repair,False,False,no channel,180.013
+bULxVQBPj-M,train,235,ottavio adorisio,https://www.youtube.com/@ottavioadorisio4052,vaginectomy,vaginectomy,True,False,,191.04
+MvBVdfSQn1c,train,236,Dr. Sergey Baydo,https://www.youtube.com/@DrSergeyBaydo,gastrectomy,gastrectomy,False,False,,9500.033
+DoDylql9f3k,train,237,Dr. Barun Chakraborty,https://www.youtube.com/@EXCELLENTLAPAROSCOPY,adhesiolysis,adhesiolysis,False,False,,2350.04
+BIVKYg-VNXQ,train,238,Jun Anayan,https://www.youtube.com/@JunJungani,appendectomy,appendectomy,False,False,,367.033
+pinNzhx6YpI,train,239,Ендокринологія від Черенько,https://www.youtube.com/@%D0%95%D0%BD%D0%B4%D0%BE%D0%BA%D1%80%D0%B8%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F%D0%B2%D1%96%D0%B4%D0%A7%D0%B5%D1%80%D0%B5%D0%BD%D1%8C%D0%BA%D0%BE,adrenalectomy,adrenalectomy,False,False,,203.033
+YbXByhGWugY,train,240,Prof. Dr. Cem Demirel,https://www.youtube.com/@prof.dr.cemdemirel342,adhesiolysis,adhesiolysis,False,False,,220.04
+n-0HXHLxE08,train,241,ashwin thangavelu,https://www.youtube.com/@ashwinthangavelu,low_anterior_resection,low_anterior_resection,False,False,,2311.04
+DSLVAXraXRw,train,242,,,hysterectomy,hysterectomy,False,False,no channel,1822.12
+EQHEo7Wwzeg,train,243,Dr AKshay ,https://www.youtube.com/@drakshay,cholecystectomy,cholecystectomy,False,False,,75.042
+R7tsEG46pfs,train,244,Marcello G. Spampinato,https://www.youtube.com/@marcellospampinato,hepatectomy,hepatectomy|cholecystectomy,True,False,,399.04
+dljr6JMMs8w,train,245,Dr vinod chaudhary,https://www.youtube.com/@Drvinodchaudhary,myomectomy,myomectomy,False,False,,1529.033
+RGf_8pV9NsE,train,246,Joboy Fuentex,https://www.youtube.com/@JoboyFuentex,low_anterior_resection,low_anterior_resection,False,False,,947.079
+U2YwIXB8-wg,train,247,Joel Dunning,https://www.youtube.com/@joeldunning001,adhesiolysis,adhesiolysis,True,False,,337.004
+fNKRc_o7DGk,train,249,Ilgar Ismayilov,https://www.youtube.com/@IlgarIsmayilov,colectomy,colectomy,False,False,top-10 channel,688.033
+mA7EDyASwjE,train,250,Stan Hewlett,https://www.youtube.com/@StanHewlett,ileocolic_resection,ileocolic_resection,True,False,,255.021
+5U7jgYDSkKk,train,251,MALZONICHANNEL,https://www.youtube.com/@MALZONICHANNEL,splenectomy,splenectomy,False,False,,585.043
+pFbw1Hd0XaM,train,253,Dr. J Salvador Saldivar,https://www.youtube.com/@BetterCallDrSal,appendectomy,appendectomy,True,False,,221.033
+MzVSdB2IOGk,train,255,ahmed elgeidie,https://www.youtube.com/@drahmedraoaf,nissen_fundoplication,nissen_fundoplication,False,False,,638.004
+pQZpr7sHEK8,train,256,Tharatip Srisuk,https://www.youtube.com/@tharatipsrisuk,cholecystectomy,cholecystectomy,False,False,,2431.04
+D9GfdLl7zeo,train,257,Dr. Mohil Patel,https://www.youtube.com/@DrMohilPatel,hysterectomy,hysterectomy|adhesiolysis,False,False,,891.033
+eahAAt2Snpg,train,258,Steven Fass,https://www.youtube.com/@stevenfass5364,duodenal_switch,duodenal_switch,True,False,,406.039
+XM9BCTDV5EQ,train,259,"Prof Luigi Boni, MD, FACS",https://www.youtube.com/@profluigibonimdfacs7238,adrenalectomy,adrenalectomy,False,False,,238.0
+fyYlQTlsg4w,train,260,Eastern Cardiothoracic Surgical Society,https://www.youtube.com/@easterncardiothoracicsurgi2175,hernia_repair,hernia_repair,True,False,,201.042
+NTSImQsfci0,train,261,The Prostate Clinic,https://www.youtube.com/@TheProstateClinicTPC,prostatectomy,prostatectomy,True,False,,769.035
+ZX2LwWAFnU8,train,263,Fondazione Vincenzo Pansadoro,https://www.youtube.com/@fondazionevincenzopansador1445,adrenalectomy,adrenalectomy,True,False,,4405.04
+VGy0h0sQeTM,train,264,"Prof. M Fatih Can, MD, FACS, FEBS ///",https://www.youtube.com/@mfcanmd1,gastrectomy,gastrectomy|jejunostomy,False,False,,390.033
+UZkgETyrwFM,train,265,The Crawford Clinic,https://www.youtube.com/@surgeryinboots,ileocolic_resection,ileocolic_resection,False,False,,118.051
+hAXUyJi3ZGE,train,266,Viszeralchirurgie T. Haist,https://www.youtube.com/@ViszeralchirurgieTHaist,gastrectomy,gastrectomy,True,False,,765.065
+cTsx9M7bB2w,train,267,,,cystectomy,cystectomy,False,False,no channel,105.038
+uYbARXQBGQc,train,268,Naveen Kella,https://www.youtube.com/@NaveenKellaMD,prostatectomy,prostatectomy,True,False,,899.031
+vHdBHM93c5k,train,269,Dr. Fərid Rəfiyev,https://www.youtube.com/@fredisfre,adhesiolysis,adhesiolysis|gastrectomy,False,False,,752.033
+VJMK1O1hIyg,train,270,JAMA Network,https://www.youtube.com/@JAMANetwork,hernia_repair,hernia_repair,False,False,,155.072
+rl4vvAQxRw0,train,272,ASVIDE,https://www.youtube.com/@asvide6238,esophagectomy,esophagectomy,True,False,top-10 channel,525.04
+20JSxM2w9cc,train,273,Dr. Wail Alqatta,https://www.youtube.com/@qattaw,colectomy,colectomy,False,False,,95.028
+ChlMm9Lvne0,train,276,DR GUNA LAPAROSCOPIC SURGEON,https://www.youtube.com/@DrGunaSurgeon,cholecystectomy,cholecystectomy,False,False,,523.056
+SdnWNoPGVgE,train,277,Алекс,https://www.youtube.com/@great473,appendectomy,appendectomy,False,False,,215.048
+3bHCDK15BOE,train,278,,,colectomy,colectomy,True,False,no channel,101.04
+C9NppyvCSvo,train,279,Dr Avishek Bhadra,https://www.youtube.com/@dravishekbhadra,adhesiolysis,adhesiolysis,False,False,,303.033
+APFusiU7ulk,train,280,,,colectomy,colectomy,False,False,no channel,97.03
+9eZfaDA9BaQ,train,283,ashwin thangavelu,https://www.youtube.com/@ashwinthangavelu,cholecystectomy,cholecystectomy,False,False,,1465.04
+ZP78jLG2gD0,train,284,art castro,https://www.youtube.com/@artcastro7581,prostatectomy,prostatectomy,True,False,,319.019
+782TKgob5bA,train,285,gatewayclinicscoimbatore,https://www.youtube.com/@gatewayclinicscoimbatore,adhesiolysis,adhesiolysis,False,False,,298.04
+HDZgpmL8PP4,train,286,Abubaker Ali,https://www.youtube.com/@abubakerali2699,esophagectomy,esophagectomy,True,False,,2690.021
+wut0TNicQDs,train,287,あや動物病院あや動物病院,https://www.youtube.com/@%E3%81%82%E3%82%84%E5%8B%95%E7%89%A9%E7%97%85%E9%99%A2%E3%81%82%E3%82%84%E5%8B%95%E7%89%A9%E7%97%85%E9%99%A2,adrenalectomy,adrenalectomy,False,True,animal,299.04
+3MRUpGp-39k,train,288,CTSNetVideo,https://www.youtube.com/@CTSNetVideo,low_anterior_resection,low_anterior_resection,False,False,top-10 channel,125.058
+VteD1u4Nt9Q,train,289,Hyungmin Jung MD,https://www.youtube.com/@hyungminjungmd8818,appendectomy,appendectomy,True,False,,741.041
+T_XSC-wjS0E,train,290,CTSNetVideo,https://www.youtube.com/@CTSNetVideo,thymectomy,thymectomy,False,False,top-10 channel,288.0
+KIPNBY9CPM0,train,291,Dr. Daniel Cesar - Clínica Cirúrgica,https://www.youtube.com/@danielcesar,gastrectomy,gastrectomy,True,False,,1053.033
+gVtd0rI8cSc,train,292,Tevfik Yoldemir,https://www.youtube.com/@tevfikyoldemir6687,adhesiolysis,adhesiolysis,False,False,,101.0
+48ETOggj0Ts,train,294,International Laparoscopic Liver Society,https://www.youtube.com/@internationallaparoscopicl7447,hepatectomy,hepatectomy,True,False,,380.04
+3GV_GboQRM0,train,295,Subbiah Shanmugam (Doctor),https://www.youtube.com/@subbiahshanmugam6329,abdominoperineal_resection,abdominoperineal_resection,False,False,,978.01
+aBjhg-qti34,train,297,Ilgar Ismayilov,https://www.youtube.com/@IlgarIsmayilov,low_anterior_resection,low_anterior_resection,False,False,top-10 channel,653.04
+-ycO3LEYAB4,train,298,urologiamolinette,https://www.youtube.com/@urologiamolinette1342,adrenalectomy,adrenalectomy,False,False,,387.053
+0wgg7rNMgMA,train,302,,,myomectomy,myomectomy,False,False,no channel,218.051
+AODibfEEiI4,train,303,Repro Learn by The Fertility Couple ,https://www.youtube.com/@reprolearn,cholecystectomy,cholecystectomy,False,False,,97.064
+DwAJ1UFH_aQ,train,304,Evren Suer,https://www.youtube.com/@evrensuer549,nephrectomy,nephrectomy,False,False,,609.109
+nHZyARQXKZw,train,305,Professor Riccardo Memeo,https://www.youtube.com/@riccardomemeo_robotic,hepatectomy,hepatectomy|cholecystectomy,True,False,,567.033
+vZ_hUyvw_JY,train,306,,,myomectomy,myomectomy,False,False,no channel,448.04
+TWmG8eX_-KA,train,308,,,cystectomy,cystectomy|myomectomy,False,False,no channel,743.04
+9mVwDNbcpLc,train,309,"Dr. Duy C. Nguyen, M.D.",https://www.youtube.com/@yooeeemd,pulmonary_lobectomy,pulmonary_lobectomy,True,False,,242.033
+UklzWPJWiAg,train,310,,,prostatectomy,prostatectomy,True,False,no channel,1981.012
+URJhe-YwwRM,train,311,Nabil Moulay,https://www.youtube.com/@docteurmoulay,hysterectomy,hysterectomy,False,False,top-10 channel,842.008
+U_URN2TgrVY,train,312,Ilgar Ismayilov,https://www.youtube.com/@IlgarIsmayilov,splenectomy,splenectomy,False,False,top-10 channel,919.04
+_RXKEtOHcZw,train,314,mehmet kilic,https://www.youtube.com/@mehmetkilic5835,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,1085.04
+qiEtS5P3XDU,train,315,"Abubaker Ali, MD, FACS",https://www.youtube.com/@abubakeralimdfacs8798,hernia_repair,hernia_repair,True,False,top-10 channel,525.024
+AxHrlP-KT1c,train,316,Ahmad Odeh,https://www.youtube.com/@ahmadodeh7099,cholecystectomy,cholecystectomy,False,False,,1065.033
+QK-98SkUbLc,train,317,Pierre Allemann,https://www.youtube.com/@pierreallemann,jejunostomy,jejunostomy,False,False,,211.04
+vc8DqjpJr94,train,318,Coloproctología UdeC,https://www.youtube.com/@coloproctologiaudec5605,rectopexy,rectopexy,False,False,,179.046
+eYEWg8OeH5w,train,319,Omilap - cirugía e innovación,https://www.youtube.com/@omilap-cirugia,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,568.04
+hZp8uUmIIzw,train,320,Surakshith Battina,https://www.youtube.com/@dr_baby_maker,myomectomy,myomectomy,False,False,,129.046
+yylshmx7PNw,train,321,"Nancy G. Marquez M.D., FACS",https://www.youtube.com/@dvbarisurgeon,gastrectomy,gastrectomy,True,False,,350.05
+6u6ddc3EtEQ,train,323,sanjoy mandal,https://www.youtube.com/@drsanjoymandal,splenectomy,splenectomy,False,False,,373.039
+6XkTH24UFF8,train,324,Prof. Dr. Mohammad Zarin,https://www.youtube.com/@drmzarin,adrenalectomy,adrenalectomy,False,False,,479.033
+YqJHaaIJJEU,train,325,,,prostatectomy,prostatectomy,True,False,no channel,2911.04
+XRpkCPqkmOw,train,326,Dr. Nagi Safa,https://www.youtube.com/@nagisafa,gastric_bypass,gastric_bypass,False,False,,992.058
+w4VU9YyAaXI,train,327,Kevin Clive MD,https://www.youtube.com/@kevinclivemd4935,hernia_repair,hernia_repair,True,False,,744.043
+IhsMsVGJc_o,train,328,Dr. Varun H Shah,https://www.youtube.com/@dr.varunhshah,hysterectomy,hysterectomy|adhesiolysis,False,False,,1824.024
+YUK6w6TgpWo,train,330,"Mark Soliman, MD, FACS, FASCRS",https://www.youtube.com/@MarkSoliman,ileorectal_anastomosis,ileorectal_anastomosis,True,False,,290.033
+TEYD41hxbV4,train,331,"Prof. M Fatih Can, MD, FACS, FEBS ///",https://www.youtube.com/@mfcanmd1,gastrectomy,gastrectomy,False,False,,334.033
+z0PfnPwUoS4,train,332,FRANCISCO CARVALHO,https://www.youtube.com/@franciscocarvalho6540,nephrectomy,nephrectomy,True,False,,540.033
+PCPJA_oHVlw,train,333,LIMA HOSPITALS,https://www.youtube.com/@limahospitals6657,thymectomy,thymectomy,False,False,,327.04
+cQm6_cprjQE,train,335,ExpertSurgery,https://www.youtube.com/@expertsurgery1534,hernia_repair,hernia_repair,True,False,,214.047
+zL89znxYqss,train,336,Northwestern Surgical Associates - Dr. Fronza,https://www.youtube.com/@NorthwesternSurgicalAssoicates,appendectomy,appendectomy,False,False,,206.039
+WKqni5zP03g,train,338,Cheng HU,https://www.youtube.com/@hucheng518,nephrectomy,nephrectomy,False,False,,653.033
+FLdH-VwpPwM,train,341,"Dr. Richard Fortunato, Colorectal Surgeon",https://www.youtube.com/@dr.richardfortunatocolorec9095,abdominoperineal_resection,abdominoperineal_resection,True,False,,110.033
+Qbd-DEbI1fk,train,345,Sylvester Comprehensive Cancer Center,https://www.youtube.com/@SylvesterCancer,esophagectomy,esophagectomy,True,False,,383.984
+Br7_mbyEb58,train,346,,,colectomy,colectomy,False,False,no channel,76.04
+ttNfgDTmYys,train,347,Joel Dunning,https://www.youtube.com/@joeldunning001,pulmonary_lobectomy,pulmonary_lobectomy,True,False,,687.053
+Ocl7hie0Az0,train,348,Sanjivani Surgical Hospital,https://www.youtube.com/@Sanjivanisurgicalhospital,appendectomy,appendectomy,False,False,,337.087
+D_Z5x-JO67Y,train,349,Wael Lotfy,https://www.youtube.com/@welmahh,small_bowel_resection,small_bowel_resection,False,False,,577.01
+6gGUd4-u-bI,train,351,,,kidney_transplant,kidney_transplant,True,False,no channel,61.061
+pBoeEaQTGV4,train,352,Dr Vikas Singhal,https://www.youtube.com/@drvikassinghal4923,hernia_repair,hernia_repair,False,False,,177.044
+2B76Zk-LX9c,train,353,,,hepatectomy,hepatectomy,True,False,no channel,980.033
+G0PbNhHl7PU,train,354,"Guido Coretti, M.D.",https://www.youtube.com/@GuidoCoretti,nissen_fundoplication,nissen_fundoplication,False,False,,1135.04
+8hmRQJjt6JU,train,356,Chang Hyun Kang's thoracic surgery channel,https://www.youtube.com/@ChangHyunKang,esophagectomy,esophagectomy,True,False,,502.033
+zYjhxgV8OZo,train,357,Dr. Mohil Patel,https://www.youtube.com/@DrMohilPatel,hysterectomy,hysterectomy|adhesiolysis,False,False,,1210.033
+UwWrSrRKiyY,train,358,Stan Hewlett,https://www.youtube.com/@StanHewlett,splenectomy,splenectomy,True,False,,63.063
+S18pFFixIfw,train,361,Sorin Cimpean,https://www.youtube.com/@sorincimpean7294,splenectomy,splenectomy,False,False,,607.033
+RRNtiUtRacI,train,362,Dr Dhruvil Patel  Official,https://www.youtube.com/@Dhruvilpatel_dr,adhesiolysis,adhesiolysis,False,False,,995.033
+qebzipgeU5c,train,363,Joboy Fuentex,https://www.youtube.com/@JoboyFuentex,ileorectal_anastomosis,ileorectal_anastomosis,False,False,,1836.068
+bfn5ic0O0GU,train,364,J Mark Pool MD,https://www.youtube.com/@jmarkpoolmd,thymectomy,thymectomy,True,False,,888.054
+KSCpvQTJHdI,train,365,Dr. Kenneth Bark,https://www.youtube.com/@dr.kennethbark1657,rectopexy,rectopexy,True,False,,297.063
+Gg71ETttH4s,train,366,,,hysterectomy,hysterectomy,False,False,no channel,714.981
+BhU8S1KUVg8,train,367,Alesi Surgical,https://www.youtube.com/@alesisurgical9586,nissen_fundoplication,nissen_fundoplication,False,False,,62.0
+3C96Xc4FqCI,train,368,Florin Grama - Medical Education,https://www.youtube.com/@floringrama-medicaleducati8980,colectomy,colectomy,False,False,,1521.02
+IBcoLA6iIgE,train,369,sanjoy mandal,https://www.youtube.com/@drsanjoymandal,abdominoperineal_resection,abdominoperineal_resection,False,False,,556.033
+94-oDiqcoUo,train,370,Johnbalogi,https://www.youtube.com/@Johnbalogi,nissen_fundoplication,nissen_fundoplication,False,False,,661.028
+U7ItvIoG8U0,train,371,Unitat de Cirurgia HBP de l'Hospital de Sant Pau,https://www.youtube.com/@unitatdecirurgiahbpdelhosp4951,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,1724.04
+r2mq-VbN-pw,train,374,CTSNetVideo,https://www.youtube.com/@CTSNetVideo,pulmonary_lobectomy,pulmonary_lobectomy,False,False,top-10 channel,338.04
+xYhuaRQoUqY,train,375,"Cabot Murdock, MD",https://www.youtube.com/@cabotmurdockmd9453,appendectomy,appendectomy,True,False,,175.042
+tNQcySzRctc,train,376,"Gregory Pittman, MD",https://www.youtube.com/@gregorypittmanmd4416,thymectomy,thymectomy,True,False,,441.041
+I0YNQInWaYA,train,377,DR. V. AMAR,https://www.youtube.com/@DRVAMAR,duodenal_switch,duodenal_switch,False,False,,1122.088
+cBTlaC1q4do,train,378,Deepak Govil,https://www.youtube.com/@deepakgovil34,thymectomy,thymectomy,True,False,,197.04
+xTkHb3ml4SQ,train,379,ahmed elgeidie,https://www.youtube.com/@drahmedraoaf,cholecystectomy,cholecystectomy,False,False,,288.054
+-baLQuTOgnw,train,380,Dr Jignesh Ashwin Gandhi,https://www.youtube.com/@drjigneshgandhi,adrenalectomy,adrenalectomy,False,False,,176.04
+ynZlu77laYM,train,381,BMIutah,https://www.youtube.com/@BMIutah,duodenal_switch,duodenal_switch,False,False,,232.033
+K-piJH64TqI,train,382,"Dr. med. Ibrahim Darwich, MD",https://www.youtube.com/@dr.med.ibrahimdarwichmd5415,thymectomy,thymectomy,True,False,,651.017
+543l-MmfNjY,train,384,Chirurgie rénale Bordeaux,https://www.youtube.com/@chirurgie-renale-bordeaux,nephrectomy,nephrectomy,True,False,,347.04
+gar4WerFBO4,train,385,UROLOG TAREND,https://www.youtube.com/@urologtarend4422,nephrectomy,nephrectomy,False,False,,2401.04
+p4UX5DMFL2U,train,386,HPB unit Mar Hospital del Mar,https://www.youtube.com/@hpbunitmarhospitaldelmar8974,pancreatectomy,pancreatectomy|pancreaticoduodenectomy,False,False,,7006.04
+GxNYVkcIpyg,train,387,Bernardo Rocco,https://www.youtube.com/@berocco,nephrectomy,nephrectomy,True,False,,303.036
+jkect1-1ksI,train,388,TeamS,https://www.youtube.com/@teamsurgery1789,cholecystectomy,cholecystectomy,False,False,,585.149
+pnMBg_N04OM,train,389,Dr. Estrada,https://www.youtube.com/@doctor.estrada,adrenalectomy,adrenalectomy,False,False,,338.038
+fblKRXKIBMQ,train,390,Ioannis Kartalas Goumas,https://www.youtube.com/@endourology,nephrectomy,nephrectomy,False,False,,1452.04
+n3Di8_7WDo8,train,391,MALZONICHANNEL,https://www.youtube.com/@MALZONICHANNEL,adhesiolysis,adhesiolysis,False,False,,493.04
+nmcPibIj7Ys,train,393,"Nancy G. Marquez M.D., FACS",https://www.youtube.com/@dvbarisurgeon,gastric_bypass,gastric_bypass,True,False,,711.044
+v5I2xoEXfGU,train,395,Dr. Husain Abbas - Bariatric Surgeon ,https://www.youtube.com/@DrHusainAbbas,duodenal_switch,duodenal_switch,True,False,,896.04
+sCtqbKC4Hag,train,396,Doç. Dr. Necmettin Penbegül,https://www.youtube.com/@Do%C3%A7.Dr.NecmettinPenbeg%C3%BCl,nephrectomy,nephrectomy|kidney_transplant,False,False,,281.033
+s91XhG2VbOE,train,397,Mihir Shah,https://www.youtube.com/@mihirshah5082,hepatectomy,hepatectomy,True,False,,829.028
+f8jGyIQSV24,train,398,MIGS_Tips,https://www.youtube.com/@migs_tips3433,adhesiolysis,adhesiolysis,True,False,,266.033
+RJe0TAkHixM,train,399,Carlos Villanueva,https://www.youtube.com/@peduro,appendectomy,appendectomy,True,False,,465.999
+2gLlNswwjrU,train,401,UrologyRobotics,https://www.youtube.com/@UrologyRobotics,nephrectomy,nephrectomy,True,False,,1767.032
+HFPqd626Hs4,train,402,Dr.Yingchi Robotic & Laparoscopic Gyne Surgery ,https://www.youtube.com/@chutipapaandjiraphatwanggy1340,adhesiolysis,adhesiolysis,False,False,,998.039
+oYuZir97Czo,train,403,Braulio Aarón Crisanto Campos,https://www.youtube.com/@drcrisanto,colectomy,colectomy,False,False,,6919.079
+gkMsTbDzLNc,train,404,,,adhesiolysis,adhesiolysis,False,False,no channel,384.05
+JDcToB_nN7w,train,405,Dr. Joshua Tierney,https://www.youtube.com/@drjoshuatierney,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,1305.037
+xLAOl8DxsdQ,train,406,Stan Hewlett,https://www.youtube.com/@StanHewlett,esophagectomy,esophagectomy,True,False,,151.018
+9_h7W33fZdE,train,407,,,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,no channel,4405.034
+pWRXArDw3qQ,train,408,Dr GSS Mohapatra's  Endometriosis & Lap Clinic,https://www.youtube.com/@drgssmp,hysterectomy,hysterectomy,False,False,,8606.0
+RArm9QX8vTM,train,409,Massimo Giuseppe Viola,https://www.youtube.com/@massimogiuseppeviola6799,gastrectomy,gastrectomy,False,False,,734.04
+CT-9tQXy5ZQ,train,411,Dr. Kesava Reddy Mannur,https://www.youtube.com/@LondonObesityCentre,duodenal_switch,duodenal_switch,False,False,,592.04
+vyoLu7UBK8Q,train,412,anusak yieng,https://www.youtube.com/@yienga1,adrenalectomy,adrenalectomy,True,False,,1589.04
+PEIsfmfqq24,train,413,National Surgery Review,https://www.youtube.com/@nationalsurgeryreview6965,splenectomy,splenectomy,False,False,,208.0
+nFQ4rpmmHtY,train,414,AUAUniversity,https://www.youtube.com/@AUAUniversity,abdominoperineal_resection,abdominoperineal_resection,True,False,,334.042
+s-q9KAP1l50,train,415,Robotic HPB Surgery Belgium (Robot Lever Pancreas),https://www.youtube.com/@robotichpbsurgerybelgium3435,colectomy,colectomy|jejunostomy,True,False,,395.996
+UM-Go2n7DBs,train,416,Aimal Khan,https://www.youtube.com/@aimalkhan7081,colectomy,colectomy,True,False,,1456.055
+K9116h1E3gw,train,417,凱哥小學堂 Yin-Kai Chao ,https://www.youtube.com/@yin-kaichao560,esophagectomy,esophagectomy,True,False,,364.998
+fOeJJ243zII,train,418,,,colectomy,colectomy,True,False,no channel,34.04
+bi4jZnkJnkU,train,420,,,myomectomy,myomectomy,False,False,no channel,242.009
+l8Gd--DT900,train,423,JOHN GRINIATSOS,https://www.youtube.com/@johngriniatsos7324,adrenalectomy,adrenalectomy,False,False,,671.004
+4KKnH0_YCjA,train,424,ashwin thangavelu,https://www.youtube.com/@ashwinthangavelu,appendectomy,appendectomy,False,False,,1407.04
+L08stEBbn78,train,426,Dr Shandip_pedsurg_peduro,https://www.youtube.com/@pedsurgery,small_bowel_resection,small_bowel_resection,False,False,,105.04
+G9gQY6T6qoc,train,427,"Abubaker Ali, MD, FACS",https://www.youtube.com/@abubakeralimdfacs8798,hernia_repair,hernia_repair,True,False,top-10 channel,378.044
+_dviIamjA9o,train,428,Josh Holmes,https://www.youtube.com/@joshholmes9725,thymectomy,thymectomy,True,False,,197.03
+pVtTWyzzm8A,train,429,"Abubaker Ali, MD, FACS",https://www.youtube.com/@abubakeralimdfacs8798,adrenalectomy,adrenalectomy,True,False,top-10 channel,1483.048
+-JYf3rHoWSw,train,430,Dr. Khabas G.,https://www.youtube.com/@dr.khabasg.326,hysterectomy,hysterectomy,False,False,,86.04
+PQ22PBZgMMM,train,433,Fondazione Vincenzo Pansadoro,https://www.youtube.com/@fondazionevincenzopansador1445,prostatectomy,prostatectomy,True,False,,4326.04
+Hf2uaABE5dI,train,434,,,cystectomy,cystectomy,False,False,no channel,170.037
+VMe0_dPg5Cw,train,436,Psomas Stefanos _ General Surgeon,https://www.youtube.com/@Psomas.Stefanos_surgery,splenectomy,splenectomy,False,False,,2642.039
+51LCgzqfNI4,train,437,DFW Bariatrics and General Surgery - Kukreja MD,https://www.youtube.com/@dfwbariatrics,esophagectomy,esophagectomy,True,False,,171.038
+B-XJoSaNUP0,train,439,"Dr.karthik babu Perumalla DNB,FALS-HPB&Bariatrics",https://www.youtube.com/@dr.karthikbabuperumalladnb2457,ulcer_repair,ulcer_repair,False,False,,440.04
+7BACJokT4tU,train,440,Dr. Varun H Shah,https://www.youtube.com/@dr.varunhshah,adhesiolysis,adhesiolysis,False,False,,1208.007
+Cbf7E1WnX5I,train,443,Dr. Atul Mishra,https://www.youtube.com/@dr.atulmishra6848,thymectomy,thymectomy,False,False,,1001.04
+BWWRmqAIeVM,train,444,zaw myint,https://www.youtube.com/@zawmyint106,appendectomy,appendectomy,False,False,,732.999
+hT2ge_FFXKQ,train,446,Dr. Pradeep Pallati,https://www.youtube.com/@dr.pradeeppallati8185,adrenalectomy,adrenalectomy,False,False,,254.054
+JPukvH9Gnuc,train,447,,,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,no channel,153.033
+eF4y4a2i4XU,train,448,"Dr. Fateh Entabi, MD",https://www.youtube.com/@Drentabi,adhesiolysis,adhesiolysis,False,False,,263.997
+_kNjQIkS-c0,train,450,Chang Hyun Kang's thoracic surgery channel,https://www.youtube.com/@ChangHyunKang,thymectomy,thymectomy,True,False,,4694.023
+RWWmSLAMOzI,train,451,Unitat de Cirurgia HBP de l'Hospital de Sant Pau,https://www.youtube.com/@unitatdecirurgiahbpdelhosp4951,hepatectomy,hepatectomy,False,False,,374.04
+35NwIm7bFQA,train,452,"Βλέτσης Γεώργιος , Γενικός Χειρουργός ",https://www.youtube.com/@laparoscopyvletsis,adhesiolysis,adhesiolysis,False,False,,456.04
+DK6XEcnaNAI,train,453,ashwin thangavelu,https://www.youtube.com/@ashwinthangavelu,jejunostomy,jejunostomy,False,False,,674.04
+YEFjE-JeX84,train,454,Fernando Burdio,https://www.youtube.com/@fernandoburdio7940,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,732.04
+DCQ1Htnc6vg,train,456,"Scott Tobis, MD",https://www.youtube.com/@scotttobismd1,nephrectomy,nephrectomy,True,False,,605.038
+M5Rxib_n_Ng,train,458,Angelo Stuto,https://www.youtube.com/@angelostuto3501,rectopexy,rectopexy,False,False,,343.04
+ksO7g3GjtWk,train,460,Roger Williams Medical Center weight loss surgery,https://www.youtube.com/@rogerwilliamsmedicalcenter5729,gastric_bypass,gastric_bypass,False,False,,625.024
+ULi_-T9tzy0,train,461,Dr.Elgün Səmədov,https://www.youtube.com/@DrElgunSamadov,gastrectomy,gastrectomy,False,False,,2888.04
+vnsQ1wxUdLc,train,462,Dr. Joshua Tierney,https://www.youtube.com/@drjoshuatierney,colectomy,colectomy,True,False,,1336.001
+xWftNxs8Ydc,train,465,Dr. Avafia Dossa,https://www.youtube.com/@avafia,hernia_repair,hernia_repair,True,False,,191.091
+2NRI97g-0EU,train,466,Jeffrey Parks,https://www.youtube.com/@surgparks,appendectomy,appendectomy,False,False,,249.033
+bCXuqQihRGQ,train,468,Andrea Pakula MD,https://www.youtube.com/@drandreapakula,appendectomy,appendectomy,True,False,,521.02
+2PfZfPk4OL4,train,469,Eben Strobos,https://www.youtube.com/@ebenstrobos5938,low_anterior_resection,low_anterior_resection,True,False,,2124.033
+3_UvTcICksI,train,470,St Joseph Thoracics,https://www.youtube.com/@stjosephthoracics6344,esophagectomy,esophagectomy,False,False,,125.025
+s2y-oXzCrIQ,train,471,Joboy Fuentex,https://www.youtube.com/@JoboyFuentex,low_anterior_resection,low_anterior_resection,False,False,,319.052
+uubEVEAVbYk,train,473,Dr. Avafia Dossa,https://www.youtube.com/@avafia,appendectomy,appendectomy,True,False,,258.058
+88h7ZW-jNWU,train,474,JOHN GRINIATSOS,https://www.youtube.com/@johngriniatsos7324,splenectomy,splenectomy,False,False,,544.043
+9uepz4wbcwA,train,475,Doç.Dr. Mithat Ekşi,https://www.youtube.com/@drmithateksi,nephrectomy,nephrectomy|kidney_transplant,False,False,,252.04
+AWdnywNsCE0,train,476,วิศิษฏ์ เกษตรเสริมวิริยะ,https://www.youtube.com/@%E0%B8%A7%E0%B8%B4%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%8F%E0%B9%8C%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0,esophagectomy,esophagectomy,False,False,,496.062
+OfjhWC2FmgI,train,477,Dr. Wail Alqatta,https://www.youtube.com/@qattaw,appendectomy,appendectomy,False,False,,204.037
+0RVYJEsKjAM,train,479,One Surgical Specialists,https://www.youtube.com/@onesurgicalspecialists9241,low_anterior_resection,low_anterior_resection,True,False,,253.019
+Gwtltu13sxk,train,480,,,adhesiolysis,adhesiolysis,False,False,no channel,202.04
+QUyQRUf6gj4,train,481,Brij Laser and Laparoscopy,https://www.youtube.com/@singhbrij2001,hysterectomy,hysterectomy,False,False,,1078.033
+cKmHajW16JY,train,483,,,gastric_bypass,gastric_bypass,False,False,no channel,220.04
+69ruOQ2iaiQ,train,486,UROLOGIE SAINT AUGUSTIN,https://www.youtube.com/@urologiesaintaugustin1819,nephrectomy,nephrectomy,True,False,,488.021
+9GDq_0EvoPA,train,487,Prof. Dr. Cem Demirel,https://www.youtube.com/@prof.dr.cemdemirel342,adhesiolysis,adhesiolysis,False,False,,211.04
+IjmNXXqcboY,train,488,Service d'Urologie CHU Rennes,https://www.youtube.com/@servicedurologiechurennes8720,nephrectomy,nephrectomy,True,False,,276.04
+kUyr6PM5YKs,train,489,Boon Kua,https://www.youtube.com/@boonkua2145,nephrectomy,nephrectomy,True,False,,469.052
+BuqhT2vMrVQ,train,490,International Laparoscopic Liver Society,https://www.youtube.com/@internationallaparoscopicl7447,hepatectomy,hepatectomy,True,False,,355.055
+XBIT8fcTExM,train,492,,,adhesiolysis,adhesiolysis,False,False,no channel,1180.033
+g6nPhs5zmSQ,train,494,Professor Dr Khalid Javeed Khan,https://www.youtube.com/@hafzoyzain,splenectomy,splenectomy,False,False,,57.057
+nqQRUS8kEdQ,train,495,DFW Bariatrics and General Surgery - Kukreja MD,https://www.youtube.com/@dfwbariatrics,jejunostomy,jejunostomy|gastric_bypass,True,False,,679.045
+SIEHLxTmVv0,train,496,"Fabian RECHE, MD, FASMBS",https://www.youtube.com/@fabianreche38,gastric_bypass,gastric_bypass,True,False,,324.057
+3i01i9jILEE,train,497,Profesör Doktor Mert Göl,https://www.youtube.com/@profdrmertgol,small_bowel_resection,small_bowel_resection|hysterectomy,False,False,,337.04
+7pigYuw7jLk,train,498,Gustavo Sevá-Pereira,https://www.youtube.com/@gustavoseva,low_anterior_resection,low_anterior_resection,False,False,,4197.927
+Yv1TqEwNwHc,train,499,"Mark Soliman, MD, FACS, FASCRS",https://www.youtube.com/@MarkSoliman,low_anterior_resection,low_anterior_resection,True,False,,321.021
+32ldGpj1GwM,train,500,Dr. Sergey Baydo,https://www.youtube.com/@DrSergeyBaydo,adrenalectomy,adrenalectomy,False,False,,2502.967
+xXfwwoHFNvA,train,501,Dr Archit Pandit,https://www.youtube.com/@drarchitpanditminimallyinv1528,pancreatectomy,pancreatectomy,False,False,,600.04
+MDkUXS57t0E,train,502,ROBOTIC SURGEONS OF INDIA,https://www.youtube.com/@roboticsurgeonsofindia6223,pulmonary_lobectomy,pulmonary_lobectomy,True,False,,134.04
+k9tDPjGJsuc,train,504,Dr. Luis Padilla,https://www.youtube.com/@dr.luispadilla5117,nissen_fundoplication,nissen_fundoplication,False,False,,116.049
+8gcdkv-IidY,train,505,Dr. Jon Gould,https://www.youtube.com/@dr.jongould7690,nissen_fundoplication,nissen_fundoplication,False,False,,490.056
+5qfamQ4x3E4,train,507,Kurt Strom,https://www.youtube.com/@kurtstrom1907,adrenalectomy,adrenalectomy,True,False,,229.996
+-wXaXY0S0xY,train,508,Stan Hewlett,https://www.youtube.com/@StanHewlett,splenectomy,splenectomy|pancreatectomy,True,False,,214.047
+kDIF8kshEVM,train,511,"Mark Soliman, MD, FACS, FASCRS",https://www.youtube.com/@MarkSoliman,low_anterior_resection,low_anterior_resection,True,False,,751.084
+qjiACZHF0l0,train,513,Ravi Kanojia,https://www.youtube.com/@clickravi,appendectomy,appendectomy,False,False,,655.033
+ePuGvLamnMI,train,514,Shivansh Women's Hospital Ahmedabad,https://www.youtube.com/@shivansh_hospital,hysterectomy,hysterectomy,False,False,,2047.033
+5gUkDYev1Vg,train,515,Zhifen Chen,https://www.youtube.com/@zhifenchen9823,low_anterior_resection,low_anterior_resection,False,False,,1194.0
+pbgoYZJfF3s,train,517,MEDIA L INC,https://www.youtube.com/@medialinc7831,pancreatectomy,pancreatectomy,False,False,,800.049
+RIH7bU15Zx4,train,518,TIRUPPUR GASTROCARE,https://www.youtube.com/@tiruppurgastrocare9845,appendectomy,appendectomy,False,False,,272.033
+bQkvpijUExY,train,519,Samuel Pangburn,https://www.youtube.com/@samuelpangburn6565,cholecystectomy,cholecystectomy,True,False,,556.056
+3A3F6hC-imY,train,520,John Conneely,https://www.youtube.com/@jbconneely,splenectomy,splenectomy,False,False,,267.0
+c5KLzbrV2WY,train,521,Joel Dunning,https://www.youtube.com/@joeldunning001,thymectomy,thymectomy,False,False,,721.02
+LShtrsadCYM,train,522,Dr Gurumoorthy Surgical Oncologist,https://www.youtube.com/@guruh2607,adrenalectomy,adrenalectomy,False,False,,640.006
+ZNhUSlcgCFs,train,523,mossad hemida,https://www.youtube.com/@mhemida67,cholecystectomy,cholecystectomy,False,False,,1657.033
+FQBYx_4OU3U,train,526,Vattikuti Foundation,https://www.youtube.com/@vattikutifoundation1149,adhesiolysis,adhesiolysis,True,False,,265.04
+eSV5lhmIZL4,train,527,Dr Ajay Mandal,https://www.youtube.com/@drajaymandal1365,pancreatectomy,pancreatectomy,False,False,,1526.04
+ST_cm3IFxDY,train,528,Dr. Mohil Patel,https://www.youtube.com/@DrMohilPatel,hysterectomy,hysterectomy|adhesiolysis,False,False,,575.033
+qYtksXZXq4E,train,529,Dr Nishit Patel,https://www.youtube.com/@drnishitpatel,nephrectomy,nephrectomy,False,False,,661.06
+znh-893A8tg,train,530,Sergey Lyass,https://www.youtube.com/@sergeylyass4666,gastric_bypass,gastric_bypass,True,False,,598.056
+Og4iAakMX1I,train,531,Ayhan MESCİ,https://www.youtube.com/@ayhanmesci284,duodenal_switch,duodenal_switch,False,False,,199.032
+jTk6Arbf2X0,train,532,Rohit Repala,https://www.youtube.com/@chaching23,small_bowel_resection,small_bowel_resection,True,False,,1871.036
+Q7KsFpr6vm8,train,533,S - Art,https://www.youtube.com/@s-art9093,low_anterior_resection,low_anterior_resection,False,False,,762.033
+c-kqButehw8,train,534,Drs. Ross Rosemurgy Sucandy,https://www.youtube.com/@drs.rossrosemurgysucandy6130,hepatectomy,hepatectomy,True,False,,300.033
+QiL964jF0nU,train,535,Prof Dr Sunil Popat (Laparoscopic Surgeon),https://www.youtube.com/@ProfDrSunilPopat,cholecystectomy,cholecystectomy,False,False,,349.049
+ZchNF25kALw,train,536,Naveen Kella,https://www.youtube.com/@NaveenKellaMD,prostatectomy,prostatectomy,True,False,,3855.985
+Pn3ouhGA4NU,train,537,Hamdy Sedky Abdallah,https://www.youtube.com/@hamdysedkyabdallah6151,nissen_fundoplication,nissen_fundoplication,False,False,,230.03
+ogcG4jDS_sU,train,538,Dr. Husain Abbas - Bariatric Surgeon ,https://www.youtube.com/@DrHusainAbbas,duodenal_switch,duodenal_switch,True,False,,646.062
+7WDbjAzdpuA,train,539,SURGE GMCS,https://www.youtube.com/@postgraduatedeptsurgerygmc3966,nephrectomy,nephrectomy,False,False,,348.04
+sBOzRaOALJU,train,540,"Fabian RECHE, MD, FASMBS",https://www.youtube.com/@fabianreche38,gastrectomy,gastrectomy,True,False,,248.072
+2SFGPRwdOR4,train,541,Sarfaraz Baig,https://www.youtube.com/@docsarfarazbaig,gastric_bypass,gastric_bypass,False,False,,253.04
+aoIddkW85kA,train,542,Brij Laser and Laparoscopy,https://www.youtube.com/@singhbrij2001,appendectomy,appendectomy,False,False,,327.033
+Fvh6qitjF_w,train,543,"Dima Havaleshko MD, FACS, FASMBS",https://www.youtube.com/@Havaleshko-MD-FACS,gastric_bypass,gastric_bypass,True,False,,782.982
+AAc1Urv0de4,train,544,Chang Hyun Kang's thoracic surgery channel,https://www.youtube.com/@ChangHyunKang,esophagectomy,esophagectomy,True,False,,1406.033
+hLyysR6DOLk,train,546,Michał Pędziwiatr,https://www.youtube.com/@mpedziwiatr,adrenalectomy,adrenalectomy,False,False,,2229.033
+U5T2A4-5C8o,train,547,"Michael E. Dolberg, MD, FACS, FASCRS",https://www.youtube.com/@michaele.dolbergmdfacsfasc8142,small_bowel_resection,small_bowel_resection,False,False,,334.033
+SMhfu9VS3pY,train,548,SERDAR AYKAN,https://www.youtube.com/@SERDARAYKAN,nephrectomy,nephrectomy,False,False,,1100.032
+IuF5cMzOdqg,train,549,TIRUPPUR GASTROCARE,https://www.youtube.com/@tiruppurgastrocare9845,appendectomy,appendectomy,False,False,,515.033
+KeDrmeMoJWo,train,550,mohamed abuelnasr,https://www.youtube.com/@mohamedabuelnasr411,hartmanns,hartmanns,False,False,,895.04
+d3G81jwxTHE,train,551,Dr. Christopher Manieri,https://www.youtube.com/@dr.christophermanieri3050,small_bowel_resection,small_bowel_resection,False,False,,159.026
+mcYjM3YldOU,train,552,D. D.M.,https://www.youtube.com/@drdanieledimartino1781,ulcer_repair,ulcer_repair,False,False,,797.04
+xZ_NM0k0GNM,train,553,Dr. Joshua Tierney,https://www.youtube.com/@drjoshuatierney,cholecystectomy,cholecystectomy,True,False,,418.051
+HiXUgP32_j8,train,554,Dr. Atul Mishra,https://www.youtube.com/@dr.atulmishra6848,hernia_repair,hernia_repair|thymectomy,False,False,,122.04
+k_GDwsrb3B0,train,555,Dr vinod chaudhary,https://www.youtube.com/@Drvinodchaudhary,hysterectomy,hysterectomy,False,False,,1545.033
+Rh6TKTecSJ0,train,558,,,myomectomy,myomectomy,False,False,no channel,194.027
+3_shAml5XrE,train,559,Dr Tarun Jindal,https://www.youtube.com/@drtarunjindal,esophagectomy,esophagectomy,False,False,,165.033
+uQrYyaP5ja0,train,560,Dr Devendra Parikh,https://www.youtube.com/@drdevendraparikh.oncologist,colectomy,colectomy,True,False,,4740.035
+apqUis_soLI,train,561,Tuyên Đinh Xuân,https://www.youtube.com/@tuyeninh7596,splenectomy,splenectomy,False,False,,694.103
+bfVW5B4Cc3A,train,565,Zenon Pogorelic,https://www.youtube.com/@zpogorelic,appendectomy,appendectomy,False,False,,192.059
+YmkgRRXIT2o,train,567,Tevfik Yoldemir,https://www.youtube.com/@tevfikyoldemir6687,adhesiolysis,adhesiolysis,False,False,,415.04
+yeY0qZvug8c,train,568,Suture stories,https://www.youtube.com/@drirshad,hartmanns,hartmanns,False,False,,483.016
+mI7b9rF2m0U,train,571,DR SUHAIR AL SAAD CLINIC,https://www.youtube.com/@drsuhairalsaadclinic6991,cholecystectomy,cholecystectomy,False,False,,382.048
+J7vZb6_61nE,train,572,Ahmed Habib,https://www.youtube.com/@habibmos1,thymectomy,thymectomy,True,False,,277.033
+7Fvc3gmlDpU,train,573,Dr. Del Corral Plastic Surgery,https://www.youtube.com/@dr.delcorralplasticsurgery5715,adhesiolysis,adhesiolysis,True,False,,228.028
+jm6EAeAFOws,train,574,,,ulcer_repair,ulcer_repair,False,False,no channel,661.027
+G6xcTtf1O5U,train,576,MALZONICHANNEL,https://www.youtube.com/@MALZONICHANNEL,colectomy,colectomy,False,False,,183.04
+Ecf1oZQHaDk,train,577,JOHN GRINIATSOS,https://www.youtube.com/@johngriniatsos7324,adrenalectomy,adrenalectomy,False,False,,817.05
+zFSBHpSio-E,train,578,"Maher El Chaar, MD",https://www.youtube.com/@maherelchaar,duodenal_switch,duodenal_switch,True,False,,489.022
+hFWsmQB9fl0,train,579,Dr. Atul Mishra,https://www.youtube.com/@dr.atulmishra6848,pancreatectomy,pancreatectomy,False,False,,309.04
+HSTA-hIz8Bk,train,583,Northwestern Surgical Associates - Dr. Fronza,https://www.youtube.com/@NorthwesternSurgicalAssoicates,esophagectomy,esophagectomy,False,False,,1048.047
+MVNjv4C3Oiw,train,585,mehmet kilic,https://www.youtube.com/@mehmetkilic5835,small_bowel_resection,small_bowel_resection,False,False,,213.046
+uqIrZNmSJh0,train,586,Rasesh Solanki,https://www.youtube.com/@DrRasheshSolanki,low_anterior_resection,low_anterior_resection|hernia_repair,False,False,,1664.064
+CjxcMIJFnos,train,588,alexlesani,https://www.youtube.com/@alexlesani,adrenalectomy,adrenalectomy,True,False,,1565.032
+AqCWpc0Xd8w,train,589,Sarfaraz Baig,https://www.youtube.com/@docsarfarazbaig,ileocolic_resection,ileocolic_resection,False,False,,292.04
+zyD7HMwjowI,train,590,"Michael Latzko, MD",https://www.youtube.com/@michaellatzkomd5445,low_anterior_resection,low_anterior_resection|colectomy,True,False,,951.033
+XVrS8Gnrfl8,train,591,Dr.Yingchi Robotic & Laparoscopic Gyne Surgery ,https://www.youtube.com/@chutipapaandjiraphatwanggy1340,adhesiolysis,adhesiolysis,False,False,,870.036
+SilV-tiYsrc,train,593,MESDA Channel,https://www.youtube.com/@mesdachannel3486,small_bowel_resection,small_bowel_resection,False,False,,112.04
+SDPpqMdlqoQ,train,596,Samuel Pangburn,https://www.youtube.com/@samuelpangburn6565,adrenalectomy,adrenalectomy,True,False,,2368.032
+a5ZvWdACuvs,train,597,"Matthew Huk, MD",https://www.youtube.com/@capnhuk1009,rectopexy,rectopexy,True,False,,813.046
+Pbr6j66d9hc,train,598,Laparoscopic / Robotic Surgery,https://www.youtube.com/@Laparoskopik,colectomy,colectomy,False,False,,109.04
+aBDPs4Kt5Xs,train,599,Srikanth C N,https://www.youtube.com/@sreekanthchakravaram6386,cystectomy,cystectomy,False,False,,996.033
+jfdzmzEjhHc,train,600,Dr. Rockson Liu,https://www.youtube.com/@DrRocksonLiu,hernia_repair,hernia_repair,True,False,,797.997
+J1YRA7kLbSU,train,601,UrologyRobotics,https://www.youtube.com/@UrologyRobotics,nephrectomy,nephrectomy,True,False,,1741.006
+-FWkrQt-OgA,train,602,Сабир Габибов,https://www.youtube.com/@%D0%A1%D0%B0%D0%B1%D0%B8%D1%80%D0%93%D0%B0%D0%B1%D0%B8%D0%B1%D0%BE%D0%B2-%D1%804%D0%B6,gastrectomy,gastrectomy,False,False,,731.033
+A27Z5J7uvO8,train,604,Dr M.N.Pavan Kumar,https://www.youtube.com/@drm.n.pavankumar9925,adhesiolysis,adhesiolysis,False,False,,613.033
+jw30vkPjjSI,train,605,"Fabian RECHE, MD, FASMBS",https://www.youtube.com/@fabianreche38,gastric_bypass,gastric_bypass,True,False,,445.045
+SVEbkPtGayA,train,609,,,cholecystectomy,cholecystectomy,False,False,no channel,212.04
+9hW_H-2UgJQ,train,610,,,cholecystectomy,cholecystectomy,False,False,no channel,270.04
+mX_hWHgoXh0,train,611,Dr. Atul Maini,https://www.youtube.com/@dr.atulmaini2142,nissen_fundoplication,nissen_fundoplication,True,False,,293.026
+q3DsRM9pn44,train,612,Madarasz Zsolt,https://www.youtube.com/@madaraszzsolt1100,appendectomy,appendectomy,False,False,,353.04
+CtjvFUPMFds,val,1,YeMi MIS,https://www.youtube.com/@Miroshnychenko,nissen_fundoplication,nissen_fundoplication,False,False,,2820.04
+S1rl6BhLrYI,val,2,Artem Stepanyan,https://www.youtube.com/@artemstepanyan,hysterectomy,hysterectomy,False,False,,2122.04
+Tmkur9yXdJQ,val,3,SocietyLapSurgeons,https://www.youtube.com/@SocLaparoscopicRoboticSurgeons,duodenal_switch,duodenal_switch,False,False,,162.029
+tf5jLPjkFKk,val,4,Kadir Bakay,https://www.youtube.com/@Grimjawshand,adhesiolysis,adhesiolysis,False,False,,550.016
+ThlOmC1E_-A,val,5,Centre de chirurgie générale et digestive sétois,https://www.youtube.com/@chirurgiedigestivesetoise,splenectomy,splenectomy,False,False,,426.059
+SzxTS5GOKIs,val,6,Henry Ford Health,https://www.youtube.com/@HenryFordHealth,nephrectomy,nephrectomy,True,False,,91.024
+b7O8Sbh4mPs,val,7,Paulo Roquete,https://www.youtube.com/@pauloroquete9547,gastric_bypass,gastric_bypass,True,False,,5559.092
+Mo_wWtOy4MU,val,8,Gold Coast Urologist,https://www.youtube.com/@goldcoasturologist,nephrectomy,nephrectomy,True,False,,282.015
+xzhc4OyF9i8,val,9,Shiva Jayaraman,https://www.youtube.com/@cutitoutpodcast,colectomy,colectomy,False,False,,639.055
+g0BHfElBaeY,val,10,DiasurgeMedical,https://www.youtube.com/@diasurgemedical3290,appendectomy,appendectomy,False,False,,151.018
+FSVnZgr8fiM,val,11,"Dr. David G. Pearson, MD",https://www.youtube.com/@dr.davidg.pearsonmd8935,cholecystectomy,cholecystectomy,True,False,,110.043
+Aiej_29a0tM,val,12,Krishna Kotecha,https://www.youtube.com/@krishnakay1,pancreatectomy,pancreatectomy,True,False,,221.033
+-5wcmCdp618,val,13,Bulent Urman,https://www.youtube.com/@bulenturman,appendectomy,appendectomy,False,False,,92.04
+RhdZejoB86g,val,14,"Leon Katz, MD",https://www.youtube.com/@leonkatzmd5304,gastric_bypass,gastric_bypass,True,False,,741.04
+UoILoB9XooM,val,15,Philip Gan,https://www.youtube.com/@PhilipGan-LiVac,splenectomy,splenectomy,False,False,,371.071
+wBciLMVxJQ0,val,16,webop Youtube,https://www.youtube.com/@webopyoutube6977,gastric_bypass,gastric_bypass,False,False,,79.04
+UdRlqj4iWqo,val,17,Colorectal Surgery,https://www.youtube.com/@colorectalsurgery,low_anterior_resection,low_anterior_resection,False,False,,248.048
+5H4BRm6svcA,val,18,DR. ERIK EFRAIN SOSA DURAN ,https://www.youtube.com/@ErikSosa2018,esophagectomy,esophagectomy,False,False,,880.046
+_VjLl6ezubU,val,19,Dr. Mahmoud Laymon / Urology,https://www.youtube.com/@mahmoudlaymon3517,nephrectomy,nephrectomy,False,False,,675.043
+93xtNc7v7Cs,val,20,Safe Laparoscopy,https://www.youtube.com/@safelaparoscopy5851,adhesiolysis,adhesiolysis,False,False,,998.998
+ERp1ZnmPqr0,val,21,Tobias Keck,https://www.youtube.com/@tobiaskeck6230,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,573.04
+_nDHoOz2eHA,val,22,Dr Hisham El Fazary دكتور هشام الفزاري,https://www.youtube.com/@drhishamelfazary7272,myomectomy,myomectomy,False,False,,102.035
+_1Em5fxAviI,val,23,Dr John Grifson,https://www.youtube.com/@johngrifsondr,cholecystectomy,cholecystectomy,False,False,,1000.033
+IkhvtqBjHFk,val,24,Daniel Kostov,https://www.youtube.com/@nedakostova4530,splenectomy,splenectomy,False,False,,265.031
+cSaSZjfaCqY,val,25,SMART MedEdu_분당서울대학교병원,https://www.youtube.com/@SMART-MedEdu,gastrectomy,gastrectomy,False,False,,535.033
+4OPNG9Y-YEw,val,26,Dr Gopalan Poovalingam,https://www.youtube.com/@drgopalanpoovalingam8590,cystectomy,cystectomy,False,False,,183.04
+kGNWpuuaRKY,val,27,Yegor Korchagin,https://www.youtube.com/@Surgeon_YegorKorchagin,adrenalectomy,adrenalectomy,False,False,,834.033
+NiVgx4wyn84,val,28,Dr. Mohamed Samir Mounir - Gynecological Endoscopy,https://www.youtube.com/@dr.mohamedsamirmounir-gyne3175,adhesiolysis,adhesiolysis,False,False,,981.04
+y7NORjVPZZU,val,29,Kriplani Alka,https://www.youtube.com/@kriplanialka6679,myomectomy,myomectomy,False,False,,113.033
+kzu4b8YkieE,val,30,jimi odejinmi,https://www.youtube.com/@jimiodejinmi917,cystectomy,cystectomy,False,False,,165.04
+X2BuLR9-Vhg,val,31,Doç.Dr.Bahtiyar Muhammedoğlu,https://www.youtube.com/@doc.dr.bahtiyarmuhammedogl674,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,536.035
+3ZcLtcZph6E,val,32,Mans ColoRectal Center,https://www.youtube.com/@manscolorectalcenter8414,splenectomy,splenectomy,False,False,,660.085
+MtX7VI7Df4k,val,33,Girish G,https://www.youtube.com/@girishg9775,low_anterior_resection,low_anterior_resection,True,False,,887.954
+1PMvzzRuIKo,val,34,Mis Network Thailand (เครือข่ายศูนย์ผ่าตัดผ่านกล้อง),https://www.youtube.com/@Misnetworkthailand,ulcer_repair,ulcer_repair,False,False,,100.0
+dyTjx0eh7_U,val,35,Adel Shervin MD,https://www.youtube.com/@adelshervin,hysterectomy,hysterectomy,False,False,,1019.04
+rbs0Xsu4vyo,val,36,Robotic Thoracic Surgery,https://www.youtube.com/@roboticthoracicsurgery3719,thymectomy,thymectomy,True,False,,1249.048
+IpmbAB0K3To,val,37,Safe Laparoscopy,https://www.youtube.com/@safelaparoscopy5851,adhesiolysis,adhesiolysis,False,False,,1063.062
+h9MCnGAZh1g,val,38,Amit Sitapara,https://www.youtube.com/@amitsitapara,thymectomy,thymectomy,False,False,,183.033
+40eKujvOLM0,val,39,"Jason Hawksworth, MD",https://www.youtube.com/@JasonHawksworthMD,nephrectomy,nephrectomy,True,False,,2234.032
+4wOG0EFnFN4,val,40,Adel Shervin MD,https://www.youtube.com/@adelshervin,hysterectomy,hysterectomy,False,False,,940.04
+AgfUri2Ks7U,val,41,Matthew Fourman,https://www.youtube.com/@matthewfourman9858,gastric_bypass,gastric_bypass,True,False,,695.033
+I0d7OjkA7UA,val,42,Yong Soo Choi,https://www.youtube.com/@yongsoochoi36,thymectomy,thymectomy,False,False,,146.046
+XuM4FZz0xjE,val,43,Chris Watters,https://www.youtube.com/@tummydoc,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,13080.0
+3Aq9x8e2eeo,val,44,Manav Suryavanshi,https://www.youtube.com/@ManavSuryavanshi,adrenalectomy,adrenalectomy|nephrectomy,False,False,,175.04
+Fp5ge015bGU,val,45,Daniel Freitas,https://www.youtube.com/@danielfreitas4739,nephrectomy,nephrectomy,True,False,,314.04
+xWGlaMBdpFs,val,46,UNC Department of Urology,https://www.youtube.com/@uncurology,cystectomy,cystectomy,True,False,,378.033
+pwmn6qTMRsY,val,47,SocietyLapSurgeons,https://www.youtube.com/@SocLaparoscopicRoboticSurgeons,hysterectomy,hysterectomy,False,False,,315.048
+UgHwShTzzRY,val,48,Girish G,https://www.youtube.com/@girishg9775,low_anterior_resection,low_anterior_resection,True,False,,163.04
+q_439ug08Ak,val,49,Dr. Antonio Luiz Macedo,https://www.youtube.com/@DrAntonioLuizMacedo,pancreatectomy,pancreatectomy,True,False,,1376.041
+9BOpGVO3NTg,val,50,Chris Watters,https://www.youtube.com/@tummydoc,pancreatectomy,pancreatectomy,True,False,,1067.033
+PgH56oXKIy8,val,51,Jon Cartledge,https://www.youtube.com/@joncartledge401,nephrectomy,nephrectomy,False,False,,2590.04
+mDOplLaHq3w,val,52,med explorer,https://www.youtube.com/@medexplorer2935,nissen_fundoplication,nissen_fundoplication,False,False,,649.04
+L88tNM0Mkho,val,53,Doctor Saa,https://www.youtube.com/@doctorsaa9937,ileocolic_resection,ileocolic_resection,False,False,,459.033
+Snb38AJszwo,val,54,Tlc Surgery,https://www.youtube.com/@tlcsurgery3466,pancreatectomy,pancreatectomy,True,False,,352.085
+8UKwLqMLKsE,val,56,MP CHANNEL,https://www.youtube.com/@MPCHANNEL7071,cholecystectomy,cholecystectomy,False,False,,771.004
+bFwZQoru5TI,val,57,Paulo Roquete,https://www.youtube.com/@pauloroquete9547,gastric_bypass,gastric_bypass,True,False,,3060.057
+DQ7M89GtRJQ,val,58,Dr Utku Can,https://www.youtube.com/@drutkucan9249,nephrectomy,nephrectomy,False,False,,450.033
+LUvnM-tnr6o,val,59,Bulent Urman,https://www.youtube.com/@bulenturman,adhesiolysis,adhesiolysis|myomectomy,False,False,,1165.04
+TmXTCwJA3Ts,val,60,Yashfeen Clinic,https://www.youtube.com/@yashfeenclinic,adhesiolysis,adhesiolysis,False,False,,162.04
+x5pachW-cGM,val,61,Garrett Friedman,https://www.youtube.com/@lindec11,colectomy,colectomy,True,False,,268.04
+jWutCFHv1Fk,val,62,Jimmy Xu,https://www.youtube.com/@jimmyxu8929,hernia_repair,hernia_repair|nissen_fundoplication,True,False,,1385.033
+9CNPQ8TSlHc,val,63,mfranksuroMD,https://www.youtube.com/@mfranksuroMD,prostatectomy,prostatectomy,True,False,,564.03
+sqRld9LrgKs,val,64,Rahul Gupta,https://www.youtube.com/@RahulGupta-ot2ow,rectopexy,rectopexy,False,False,,892.058
+8HwWTamNzi0,val,65,Chris Watters,https://www.youtube.com/@tummydoc,splenectomy,splenectomy|pancreatectomy,True,False,,1889.988
+l_TAf0xXgHY,val,66,Shiva Jayaraman,https://www.youtube.com/@cutitoutpodcast,pancreatectomy,pancreatectomy,False,False,,116.992
+zH4Ly4AQAJw,val,67,Dr Gökhan Boyraz | Endometriozis - Miyom Uzmanı,https://www.youtube.com/@prof.dr.gokhanboyraz,myomectomy,myomectomy,False,False,,181.04
+nWCIffGxNeE,val,68,mfranksuroMD,https://www.youtube.com/@mfranksuroMD,adrenalectomy,adrenalectomy,True,False,,536.036
+_0ofmfTjC40,val,69,Dr. Nagendra Parvataneni,https://www.youtube.com/@nparvataneni,low_anterior_resection,low_anterior_resection,True,False,,199.032
+GD4Ua6lXEww,val,70,Dr. Nagendra Sardeshpande,https://www.youtube.com/@dr.nagendrasardeshpande4747,cystectomy,cystectomy|adhesiolysis,False,False,,725.04
+3EwIz9Y1zuM,val,71,Ουρολογικό Κέντρο Λαμπανάρης,https://www.youtube.com/@%CE%9F%CF%85%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF%CE%9B%CE%B1%CE%BC%CF%80%CE%B1%CE%BD%CE%AC%CF%81%CE%B7%CF%82,prostatectomy,prostatectomy,True,False,,135.04
+c1_3rlYdq8s,val,72,SSATVideos,https://www.youtube.com/@SSATVideos,ampullectomy,ampullectomy,True,False,,343.043
+4vfv5kE_sRo,val,73,Roman Surov,https://www.youtube.com/@rimvs,appendectomy,appendectomy,False,False,,569.0
+99cbgnjXI6M,val,74,Safe Laparoscopy,https://www.youtube.com/@safelaparoscopy5851,nephrectomy,nephrectomy,False,False,,1096.04
+lnbXoyO4gho,val,75,"Leon Katz, MD",https://www.youtube.com/@leonkatzmd5304,nissen_fundoplication,nissen_fundoplication,True,False,,297.04
+3b4Aw6XV2yA,val,76,Dr Lakshmi Kona,https://www.youtube.com/@drlakshmikona6323,rectopexy,rectopexy,False,False,,174.04
+-up6i1Xo6y0,val,77,Chelawat Hospital,https://www.youtube.com/@chelawathospital,cholecystectomy,cholecystectomy,False,False,,418.084
+882iGNHqRZU,val,78,Dr. Antonio Luiz Macedo,https://www.youtube.com/@DrAntonioLuizMacedo,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,998.03
+xr7O97eqQPM,val,79,Dr.Kamalesh NP,https://www.youtube.com/@dr.kamaleshnp,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,400.033
+yNBLOWdhk-s,val,80,周易韋,https://www.youtube.com/@%E5%91%A8%E6%98%93%E9%9F%8B,ulcer_repair,ulcer_repair,False,False,,774.04
+sRn8NqK3Gr4,val,81,SGB36,https://www.youtube.com/@SurgeonBenz208,ulcer_repair,ulcer_repair,True,False,,219.986
+PbcTKZAVNRE,val,82,Prof. Gurbankhan Muslumov - Qurbanxan Müslümov,https://www.youtube.com/@prof.qurbanxanmuslumov,gastrectomy,gastrectomy,False,False,,9021.033
+WEEs6hrhXFg,val,83,Robotic Thoracic Surgery,https://www.youtube.com/@roboticthoracicsurgery3719,thymectomy,thymectomy,True,False,,2565.999
+J8tEFSxVoqY,val,84,Kalyana Nandipati,https://www.youtube.com/@drnkcaiims94,nissen_fundoplication,nissen_fundoplication,True,False,,297.064
+zxqTflnqhMs,val,85,周易韋,https://www.youtube.com/@%E5%91%A8%E6%98%93%E9%9F%8B,appendectomy,appendectomy,False,False,,220.04
+z_VQZGxl_oE,val,86,Darren Cluff,https://www.youtube.com/@darrencluff9528,duodenal_switch,duodenal_switch|gastric_bypass,False,False,,280.947
+t46Dhb8kxb0,val,87,Cenk Sezer,https://www.youtube.com/@cenksezer3752,appendectomy,appendectomy,False,False,,231.998
+XZhgVspg6iI,val,88,cr_outside,https://www.youtube.com/@chrisnslh,adrenalectomy,adrenalectomy,False,False,,288.054
+iXXP4rHOJ34,val,89,RN Krizzy,https://www.youtube.com/@KrizzysCap,myomectomy,myomectomy,False,False,,266.04
+v-U1dEVAzDg,val,90,Cihad Tatar MD,https://www.youtube.com/@cihadtatarmd8531,colectomy,colectomy|ileocolic_resection|cholecystectomy,False,False,,1851.016
+8suqpnsCYEY,val,91,Prof. Dr. Mohammad Eid Mahfouz,https://www.youtube.com/@dr.mohammadeidmahfouz9996,appendectomy,appendectomy,False,False,,36.036
+N5NDwGLTFNw,val,92,Dr RAJESH GODARA,https://www.youtube.com/@drrajeshgodara5717,nissen_fundoplication,nissen_fundoplication,False,False,,1103.033
+yg1sw67WZO4,val,93,drrichd,https://www.youtube.com/@drrichd,gastrectomy,gastrectomy,True,False,,334.033
+U-rJjQ5Xktg,val,94,What I did today..,https://www.youtube.com/@whatididtoday..5932,adrenalectomy,adrenalectomy,False,False,,41.041
+kqC3sjXykfA,val,95,Robotic Thoracic Surgery,https://www.youtube.com/@roboticthoracicsurgery3719,abdominoperineal_resection,abdominoperineal_resection,True,False,,1452.017
+jKT9Igyv5t0,val,96,IFEM Endo International & Academy,https://www.youtube.com/@IFEMEndo,adhesiolysis,adhesiolysis,True,False,,4193.981
+Eawn78mFNYk,val,97,Dr. Eric Smith DO FASMBS CAQ-MBS,https://www.youtube.com/@doctorericsmith,gastrectomy,gastrectomy,True,False,,394.094
+fViT_2JTFPA,val,98,Mohammad Hamdy Abo-Ryia,https://www.youtube.com/@mohammadhamdyabo-ryia,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,324.057
+C57h2MIpfZY,val,99,Juan Manuel Romero Marcos,https://www.youtube.com/@juanmanuelromeromarcos6458,appendectomy,appendectomy,False,False,,244.077
+9x7Vtd956uw,val,100,American Foregut Society,https://www.youtube.com/@americanforegutsociety6180,hernia_repair,hernia_repair,True,False,,157.024
+V9lUYtcEwMw,val,101,IFEM Endo International & Academy,https://www.youtube.com/@IFEMEndo,hysterectomy,hysterectomy,False,False,,2821.04
+zVdk0AoAwUw,val,102,Prof. Dr. Mohammad Eid Mahfouz,https://www.youtube.com/@dr.mohammadeidmahfouz9996,thymectomy,thymectomy,False,False,,61.061
+mKi3ctyNOKE,val,103,Liver Cinema & Talk,https://www.youtube.com/@LivCine,hepatectomy,hepatectomy,False,False,,748.047
+bnEPvc7gZRA,val,104,med explorer,https://www.youtube.com/@medexplorer2935,nissen_fundoplication,nissen_fundoplication,False,False,,683.04
+uJOn_xrXeYE,val,105,"Jefferson Hurley, MD",https://www.youtube.com/@jeffersonhurleymd2643,colectomy,colectomy,True,False,,163.997
+lVNk7BfJE7U,val,106,Robotic Thoracic Surgery,https://www.youtube.com/@roboticthoracicsurgery3719,pulmonary_lobectomy,pulmonary_lobectomy,True,False,,1281.046
+KdADJaet7R8,val,107,SeclaEndosurgery Canal,https://www.youtube.com/@seclaendosurgerycanal4747,splenectomy,splenectomy,True,False,,339.04
+1HdZPWvSf1Q,val,108,IFEM Endo International & Academy,https://www.youtube.com/@IFEMEndo,adrenalectomy,adrenalectomy,True,False,,695.028
+chT1MpCSrSA,test,0,kunut stapholdeja,https://www.youtube.com/@kunutstapholdeja8598,thymectomy,thymectomy,False,False,,965.065
+XbpMAcRzPdU,test,1,"Anthony Gonzalez, MD - Surgical Videos",https://www.youtube.com/@anthonygonzalezmdsurgical,hernia_repair,hernia_repair,True,False,,430.063
+g__A4vMUugA,test,3,Phani Krishna Ravula,https://www.youtube.com/@drphanikrishnagastro,colectomy,colectomy,False,False,,1783.048
+aiWhoNFKmtY,test,4,Dr. Sandeep Nayak,https://www.youtube.com/@DrSandeepNayak,thymectomy,thymectomy,False,False,,2084.04
+ZAZYvKr_Fl4,test,5,Simone Albisinni,https://www.youtube.com/@simonealbisinni1497,cystectomy,cystectomy|prostatectomy,True,False,,211.04
+xexerOoG_r8,test,6,"Salomone Di Saverio MD, FACS, FRCS",https://www.youtube.com/@SalomoneDiSaverioMDFACSFRCS,colectomy,colectomy,False,False,,2596.961
+AXS1Hoocl0A,test,7,Dr. JKA Jameel - Gastrointestinal Surgeon,https://www.youtube.com/@Dr.J.K.A.Jameel-Gastrosurgeon,splenectomy,splenectomy,False,False,,774.04
+Vc9jKgdZsR0,test,8,dr venkataramana ambidi,https://www.youtube.com/@drvenkataramanaambidi9200,ulcer_repair,ulcer_repair,False,False,,429.033
+N0OPO6E0EaY,test,10,Mohamed Bata,https://www.youtube.com/@muhammadbatah,adhesiolysis,adhesiolysis,False,False,,129.04
+_cTRImqmDgE,test,11,"Anthony Gonzalez, MD - Surgical Videos",https://www.youtube.com/@anthonygonzalezmdsurgical,gastrectomy,gastrectomy,True,False,,598.031
+KdL99m80k5g,test,12,Cirugía Laparoscópica Sevilla - MISS,https://www.youtube.com/@cirugialaparoscopicasevilla,low_anterior_resection,low_anterior_resection,False,False,,680.013
+ZfNK3NayEAo,test,13,Suhail Anwar- laparoscopic surgeon,https://www.youtube.com/@SurgeonSuhailAnwar,small_bowel_resection,small_bowel_resection|adhesiolysis,False,False,,296.04
+f_55HTDQbto,test,14,Urology Tiong,https://www.youtube.com/@urologytiong,nephrectomy,nephrectomy,True,False,,64.04
+LUPesCXse_E,test,15,Drlessismore71,https://www.youtube.com/@Drlessismore71,myomectomy,myomectomy,False,False,,790.042
+y5Mi3HW_xPA,test,16,Angel Abdi,https://www.youtube.com/@angelabdi4625,appendectomy,appendectomy,False,False,,588.04
+p4NH2lNuzDc,test,17,Diego Gonzalez-Rivas,https://www.youtube.com/@videocirugiatoracica,thymectomy,thymectomy,False,False,,519.04
+1DloAlnLHGk,test,18,Phani Krishna Ravula,https://www.youtube.com/@drphanikrishnagastro,low_anterior_resection,low_anterior_resection|colectomy,False,False,,1317.049
+EzSVbToM5Kw,test,19,surgerytimes,https://www.youtube.com/@SurgerytimesIndia,gastric_bypass,gastric_bypass,True,False,,217.04
+k-N23QEBgrc,test,20,Diego Gonzalez-Rivas,https://www.youtube.com/@videocirugiatoracica,thymectomy,thymectomy,False,False,,487.04
+FYd0tQElaf8,test,21,"Manuel Damásio-Cotovio, M.D.",https://www.youtube.com/@manueldamasiocotovio,adrenalectomy,adrenalectomy,False,False,,345.045
+lxI2azkdEjc,test,22,Philip George MD FACS,https://www.youtube.com/@philipgeorgemd,hernia_repair,hernia_repair,True,False,,1637.04
+to14Nffa1FQ,test,23,Miguel Neves,https://www.youtube.com/@miguelrfneves,splenectomy,splenectomy,False,False,,241.007
+W0hXlLk2JOk,test,24,Dr. Rahul Mahadar,https://www.youtube.com/@dr.rahulmahadar2125,colectomy,colectomy,False,False,,1367.04
+p26f9sV5i_s,test,25,Dunamis Surgical Center PLLC,https://www.youtube.com/@dunamissurgicalcenterpllc4399,ulcer_repair,ulcer_repair,True,False,,368.994
+_qn4zu6lJsQ,test,26,"Salomone Di Saverio MD, FACS, FRCS",https://www.youtube.com/@SalomoneDiSaverioMDFACSFRCS,colectomy,colectomy,False,False,,5170.065
+-_xh6Nzz8s8,test,27,Dr Vivek Kaje,https://www.youtube.com/@drvivekkaje5246,appendectomy,appendectomy,False,False,,159.04
+Sui3YwoAIww,test,28,Suhail Anwar- laparoscopic surgeon,https://www.youtube.com/@SurgeonSuhailAnwar,cholecystectomy,cholecystectomy,False,False,,400.04
+oDDa9f-kew8,test,29,Daniel Bonomi,https://www.youtube.com/@danbonomi,thymectomy,thymectomy,True,False,,713.079
+11Uh92GND6E,test,30,Dr Jan M Rather,https://www.youtube.com/@ratherjmr,cholecystectomy,cholecystectomy,False,False,,829.033
+_DFPE0NHW8Q,test,31,Lei Jiang,https://www.youtube.com/@leijiang6399,thymectomy,thymectomy,False,False,,560.033
+RZ4JQnA-gko,test,32,Carlos Rodríguez-Otero Luppi MD PhD,https://www.youtube.com/@carlosrodriguez-oteroluppi8247,splenectomy,splenectomy,False,False,,368.034
+uZsMW6_iqf0,test,33,Dr. Bailey Robotic Surgery,https://www.youtube.com/@DrBaileyRobotics,appendectomy,appendectomy,True,False,,242.033
+JVguidtMZHM,test,34,Eralp Baser,https://www.youtube.com/@dr.eralpbaser8507,hernia_repair,hernia_repair,False,False,,1764.997
+2GglbTQhhzc,test,35,Sanjivani Cancer Centre,https://www.youtube.com/@sanjivanicancercentre,thymectomy,thymectomy,False,False,,343.043
+YgK1vizAvho,test,36,drpolyp,https://www.youtube.com/@drpolyp,colectomy,colectomy|cholecystectomy,False,False,,259.025
+ve7Fh1RhKcI,test,37,Hamamsy Laparoscopic Robotic surgeon بتاع المناظير,https://www.youtube.com/@mostafahamamsylaparoscopic4891,adhesiolysis,adhesiolysis,True,False,,1153.033
+dHEhi87Al8I,test,38,Lei Jiang,https://www.youtube.com/@leijiang6399,thymectomy,thymectomy,False,False,,415.033
+ltiZ2-xkT_w,test,39,Contemporary OB/GYN,https://www.youtube.com/@ContemporaryOBGYN,adhesiolysis,adhesiolysis,False,False,,328.028
+op83S1leUVY,test,40,"Salomone Di Saverio MD, FACS, FRCS",https://www.youtube.com/@SalomoneDiSaverioMDFACSFRCS,ulcer_repair,ulcer_repair,False,False,,2470.101
+gjcd8lRX8MA,test,41,Sanjivani Cancer Centre,https://www.youtube.com/@sanjivanicancercentre,esophagectomy,esophagectomy,False,False,,386.052
+GXZR-P-qivA,test,42,arizonasurgicalUMC,https://www.youtube.com/@arizonasurgicalUMC,hernia_repair,hernia_repair|gastric_bypass,True,False,,393.026
+Ma9AaN0ahyU,test,43,Dr J.D. Ansari,https://www.youtube.com/@zainu.ansari,cholecystectomy,cholecystectomy,False,False,,201.04
+b3HqU9aBcBA,test,45,Régis Fara,https://www.youtube.com/@regisfara13,pancreatectomy,pancreatectomy,True,False,,444.01
+qLhXrRItg8I,test,46,Dr Mallika Shetye,https://www.youtube.com/@drmallikashetye5839,cystectomy,cystectomy,False,False,,425.058
+_NaGtXgfKoI,test,47,G I Surgery - Dr Keyur Bhatt,https://www.youtube.com/@drkeyurbhatt,hernia_repair,hernia_repair,False,False,,299.04
+5pBqm3DP5gE,test,48,Dr Vishal C Soni | Robotic GI Surgeon @Apollo,https://www.youtube.com/@DrVishalCSoni,cholecystectomy,cholecystectomy,False,False,,1355.033
+cy55iCxiMm8,test,49,"Dr Pragnesh Shah ,Heli womens hosp,Motera ,Abad",https://www.youtube.com/@pragnesh92,adhesiolysis,adhesiolysis,False,False,,539.072
+tBlQmO-ThQ8,test,50,LEAPS ROBOTIC ENDOCENTRE DENIS TSEPOV ,https://www.youtube.com/@LEAPSSURGERY,adhesiolysis,adhesiolysis,True,False,,1227.033
+7gGvNpjeyPs,test,51,Nikolay Belev,https://www.youtube.com/@nikolaybelev1374,pancreatectomy,pancreatectomy,False,False,,391.057
+jFRYnBbYOcI,test,52,"Sam Kirkendall, MD",https://www.youtube.com/@samkirkendallmd6425,hernia_repair,hernia_repair,True,False,,612.033
+WNl4LSvkOFo,test,53,Kalpesh Jani,https://www.youtube.com/@KalpeshJani,esophagectomy,esophagectomy,False,False,,2059.925
+zQBHloIfhd8,test,54,Dr. Somashekhar S P,https://www.youtube.com/@dr.somashekharsp8545,esophagectomy,esophagectomy,True,False,,696.04
+gTqsTVQyGto,test,55,Firas Abu Akar,https://www.youtube.com/@firasabuakar9516,thymectomy,thymectomy,False,False,,1502.04
+VKEgvM4OarY,test,56,Dr. Andre Teixeira,https://www.youtube.com/@dr.andre.teixeira.bariatric,hernia_repair,hernia_repair,True,False,,272.022
+cGu4LTHFfqE,test,57,Hamamsy Laparoscopic Robotic surgeon بتاع المناظير,https://www.youtube.com/@mostafahamamsylaparoscopic4891,hysterectomy,hysterectomy,True,False,,878.033
+zpuDZd9VdMQ,test,58,Dr Deepraj Bhandarkar,https://www.youtube.com/@DrDeeprajBhandarkar,cholecystectomy,cholecystectomy,False,False,,628.04
+5cfczab4WPo,test,59,Olympus Corporation,https://www.youtube.com/@OlympusCorporation,hysterectomy,hysterectomy,False,False,,1001.04
+h1r846O4Lnk,test,60,BJUI,https://www.youtube.com/@BJUIjournal,ileocolic_resection,ileocolic_resection,True,False,,355.033
+zcDejE1V7_s,test,61,Dr. Somashekhar S P,https://www.youtube.com/@dr.somashekharsp8545,esophagectomy,esophagectomy,True,False,,1928.04
+gWjisyksrrA,test,62,Dr.JAGRUT JOSHI,https://www.youtube.com/@dr.jagrutjoshi4988,hysterectomy,hysterectomy,False,False,,1314.046
+-ZmF5pzy8kg,test,63,Jasingh Shinde,https://www.youtube.com/@jaisinghshinde,splenectomy,splenectomy,False,False,,361.04
+_R4ym3R_D5o,test,64,Francesco Fontanazza,https://www.youtube.com/@francescofontanazzasurgeon,appendectomy,appendectomy,False,False,,2615.131
+obHNIUSlZAc,test,65,Johnson & Johnson MedTech | Surgery,https://www.youtube.com/@JNJMedTechSurgery,colectomy,colectomy,False,False,,47.047
+qh3ublmQO10,test,66,Dr Shraddha Agarwal Bhopal,https://www.youtube.com/@drshraddhaagarwalbhopal4320,adhesiolysis,adhesiolysis,False,False,,251.04
+qBoMZa5mheM,test,67,"Salomone Di Saverio MD, FACS, FRCS",https://www.youtube.com/@SalomoneDiSaverioMDFACSFRCS,hartmanns,hartmanns,False,False,,1326.058
+pX_CEQ-fJuY,test,68,Master Classes in Laparoscopic Surgery,https://www.youtube.com/@masterclassesinlaparoscopi7365,gastric_bypass,gastric_bypass,False,False,,1069.068
+D58bPAZKWiU,test,69,Advanced Laparoscopic and General Surgery,https://www.youtube.com/@advsurgery,esophagectomy,esophagectomy|gastrectomy,True,False,,366.066
+IqHYkp1VKqM,test,70,Suhail Anwar- laparoscopic surgeon,https://www.youtube.com/@SurgeonSuhailAnwar,colectomy,colectomy|ulcer_repair,False,False,,470.04
+d5tNk3cKWNU,test,71,Sanjivani Cancer Centre,https://www.youtube.com/@sanjivanicancercentre,abdominoperineal_resection,abdominoperineal_resection,True,False,,404.037
+OE4TQllVkXU,test,72,Dr. Bailey Robotic Surgery,https://www.youtube.com/@DrBaileyRobotics,gastric_bypass,gastric_bypass,True,False,,764.03
+eHcqaP7X2dU,test,73,Shabeeb MD,https://www.youtube.com/@dr.shabeeb4602,ileocolic_resection,ileocolic_resection,True,False,,374.04
+2QvXvvRUugM,test,74,Mustafa Kerem,https://www.youtube.com/@sshnao,pancreaticoduodenectomy,pancreaticoduodenectomy,False,False,,1260.04
+JN5gfe6ve8Y,test,75,Dr. Andre Teixeira,https://www.youtube.com/@dr.andre.teixeira.bariatric,duodenal_switch,duodenal_switch|gastric_bypass,True,False,,627.027
+ZHiXJvb9R4I,test,76,Prof L R JIAO,https://www.youtube.com/@proflrjiao383,pancreaticoduodenectomy,pancreaticoduodenectomy,True,False,,832.032
+usUPjMYTTVU,test,77,drsevellaraja,https://www.youtube.com/@drsselva,hysterectomy,hysterectomy,False,False,,504.045
+MhXJVCkt1cU,test,78,"Sam Kirkendall, MD",https://www.youtube.com/@samkirkendallmd6425,cholecystectomy,cholecystectomy,False,False,,293.026
+Xr_xaylnaTM,test,79,dnsherwinter,https://www.youtube.com/@dnsherwinter,colectomy,colectomy,True,False,,424.033
+OjegA8yH3PQ,test,80,Dr PS Lubana Indore,https://www.youtube.com/@DrPSLubanaIndore,cholecystectomy,cholecystectomy,False,False,,75.008
+ObNk8sbhXWY,test,81,"Dr. Armando Ramirez, FACS",https://www.youtube.com/@dr.armandoramirezfacs5951,hernia_repair,hernia_repair,True,False,,181.014
+MWOigDqRy8Q,test,82,MI - BMI & Gastric Switch CLINIC,https://www.youtube.com/@mi-bmigastricswitchclinic3653,small_bowel_resection,small_bowel_resection,False,False,,138.038
+9xZQ3yYN5sc,test,83,Evangelos Kountourakis,https://www.youtube.com/@anemos1972,cholecystectomy,cholecystectomy|ulcer_repair,False,False,,757.04
+2Sh-8Q46jLI,test,84,Pr. Alexis Laurent,https://www.youtube.com/@pr.alexislaurent6772,hepatectomy,hepatectomy,False,False,,721.02
+_4ORtKTAjr4,test,85,Shabeeb MD,https://www.youtube.com/@dr.shabeeb4602,low_anterior_resection,low_anterior_resection,True,False,,649.048
+qTLdGPBk898,test,86,Doc. Dr. Gökhan Demirayak,https://www.youtube.com/@drgokhandemirayak,hysterectomy,hysterectomy,False,False,,675.04
+-6M0T3qrjcA,test,87,wei cheng,https://www.youtube.com/@weicheng7833,hepatectomy,hepatectomy,False,False,,556.04
+M0m2BXYZgHI,test,88,Wael Lotfy,https://www.youtube.com/@waellotfy8961,ileocolic_resection,ileocolic_resection,False,False,,958.057
+AkFfFulvCTw,test,89,Dr.JAGRUT JOSHI,https://www.youtube.com/@dr.jagrutjoshi4988,hysterectomy,hysterectomy,False,False,,923.04
+jdyV_Sm7Vxw,test,90,drsevellaraja,https://www.youtube.com/@drsselva,cystectomy,cystectomy,False,False,,310.04
+UG5t-zlMmsE,test,91,Silver Cross,https://www.youtube.com/@SilverCrossHospital,ileocolic_resection,ileocolic_resection,True,False,,177.044
+K24NV8v22V4,test,92,Nick Chilvers,https://www.youtube.com/@nickchilvers7451,pulmonary_lobectomy,pulmonary_lobectomy,False,False,,106.039
+rDVirpAr3Wo,test,93,Dr Ahmad Al-Shabasy,https://www.youtube.com/@DrAhmadAlShabasy,appendectomy,appendectomy,False,False,,592.04
+ylnYItspWys,test,94,G I Surgery - Dr Keyur Bhatt,https://www.youtube.com/@drkeyurbhatt,cholecystectomy,cholecystectomy,False,False,,312.04
+Mkur6s7EyO0,test,95,G I Surgery - Dr Keyur Bhatt,https://www.youtube.com/@drkeyurbhatt,colectomy,colectomy,False,False,,3128.04
+a5JGVgwoWyc,test,96,Dr.Abdul Kader Weiss,https://www.youtube.com/@dr.abdulkaderweiss3518,appendectomy,appendectomy,False,False,,291.033
+tFo1R4do0gA,test,97,Mahmoud Ismail,https://www.youtube.com/@mahmoudismail9911,adhesiolysis,adhesiolysis,False,False,,907.039
+xOaJ4uYeOYA,test,98,Avery Walker,https://www.youtube.com/@Averywalker21,low_anterior_resection,low_anterior_resection,True,False,,875.041
+U7J9TAabUr4,test,99,Kamil Guluzade,https://www.youtube.com/@kamilguluzade9257,appendectomy,appendectomy,False,False,,1868.04
+XHjTRMplHlc,test,100,Dr. Somashekhar S P,https://www.youtube.com/@dr.somashekharsp8545,colectomy,colectomy,True,False,,251.04
+ac47qnxQCzM,test,101,Op. Dr. Murat Ustun Istanbul Bariatric Center,https://www.youtube.com/@drmuratustuncom,gastric_bypass,gastric_bypass,False,False,,1239.0
+7UNAY4lfzaE,test,102,Suhail Anwar- laparoscopic surgeon,https://www.youtube.com/@SurgeonSuhailAnwar,low_anterior_resection,low_anterior_resection,False,False,,386.04
+xgsnaRIM3iQ,test,103,Dino D'Agati,https://www.youtube.com/@dinodagati6849,small_bowel_resection,small_bowel_resection,False,False,,989.055
+GAqELEDIqd4,test,104,Phani Krishna Ravula,https://www.youtube.com/@drphanikrishnagastro,jejunostomy,jejunostomy,False,False,,369.035
+of6eO6ADvGk,test,105,ProgressiveSurgAssoc,https://www.youtube.com/@ProgressiveSurgAssoc,ileorectal_anastomosis,ileorectal_anastomosis,True,False,,313.04
+0e3iza89sLE,test,106,Robotic Lobectomy- Herrera,https://www.youtube.com/@roboticlobectomy-herrera9060,pulmonary_lobectomy,pulmonary_lobectomy,True,False,,377.033
+G4eljrj1i3c,test,107,Chit Loh,https://www.youtube.com/@chitloh608,adrenalectomy,adrenalectomy,False,False,,1789.988
+hp5j2_KNkDg,test,108,Dr. Somashekhar S P,https://www.youtube.com/@dr.somashekharsp8545,low_anterior_resection,low_anterior_resection,True,False,,644.04
+yR9vfDvx01U,test,109,Johnson & Johnson MedTech | Surgery,https://www.youtube.com/@JNJMedTechSurgery,gastrectomy,gastrectomy,False,False,,426.051

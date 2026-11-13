@@ -1,0 +1,14 @@
+# Python 3.14.3. Also needs ffmpeg/ffprobe on the PATH (frames were extracted with ffmpeg 8.0.1).
+# Install: python -m pip install -r requirements.txt
+
+# Frame sampling pipeline (scripts/)
+huggingface_hub==2.4.0
+numpy==2.5.4
+pandas==3.1.1
+pillow==13.0.0
+
+# Phase 0 embedding experiments (experiments/phase0_frame_sampling/)
+matplotlib==3.11.2
+scikit-learn==1.9.1
+torch==2.15.0
+torchvision==0.29.2
