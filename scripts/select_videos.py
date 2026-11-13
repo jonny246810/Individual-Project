@@ -15,8 +15,8 @@ from pathlib import Path
 
 import pandas as pd
 
-SPLITS = Path("data/meta/splits.csv")
-INFO = Path("data/meta/video_info.csv")
+from common import SPLITS_PATH, VIDEO_INFO_PATH
+
 
 
 def main():
@@ -28,8 +28,8 @@ def main():
     ap.add_argument("--min-duration", type=float, default=30, help="skip videos shorter than this (s)")
     args = ap.parse_args()
 
-    df = pd.read_csv(SPLITS, keep_default_na=False)
-    info = pd.read_csv(INFO).set_index("youtube_id")
+    df = pd.read_csv(SPLITS_PATH, keep_default_na=False)
+    info = pd.read_csv(VIDEO_INFO_PATH).set_index("youtube_id")
     df["duration_s"] = df.youtube_id.map(info.duration_s)
     df = df[(info.loc[df.youtube_id, "status"].values == "ok") & (df.duration_s >= args.min_duration)]
     # A video with no known channel is its own group.

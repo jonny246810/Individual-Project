@@ -19,7 +19,8 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-INFO = Path("data/meta/video_info.csv")
+from common import VIDEO_INFO_PATH
+
 
 
 def sample_video(video_id, duration, fps, n_frames, interval, cap, seed):
@@ -42,7 +43,7 @@ def main():
     args = ap.parse_args()
 
     sel = pd.read_csv(args.selection, keep_default_na=False)
-    info = pd.read_csv(INFO).set_index("youtube_id")
+    info = pd.read_csv(VIDEO_INFO_PATH).set_index("youtube_id")
     rows = []
     for _, v in sel.iterrows():
         i = info.loc[v.youtube_id]

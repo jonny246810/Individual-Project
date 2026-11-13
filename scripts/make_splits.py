@@ -18,14 +18,12 @@ import argparse
 import csv
 import json
 from collections import Counter
-from pathlib import Path
 
 import numpy as np
 import pandas as pd
 
-LABELS_PATH = Path("data/raw/labels.json")
-CHANNELS_PATH = Path("data/meta/channels.csv")
-OUT = Path("data/meta/splits.csv")
+from common import CHANNELS_PATH, LABELS_PATH, SPLITS_PATH
+
 
 # Found by keyword search of titles (dog/perro/canine/pig...) then checked by hand, plus BCKK9hBJmfM,
 # which has no animal in its title but comes from a veterinary channel. False positives excluded:
@@ -96,8 +94,8 @@ def main():
 
     cols = ["youtube_id", "split", "rank", "channel", "channel_url", "procedure", "all_procedures",
             "robotic", "animal", "forced_train_reason"]
-    df.sort_values(["split", "rank"])[cols].to_csv(OUT, index=False)
-    print("saved", OUT)
+    df.sort_values(["split", "rank"])[cols].to_csv(SPLITS_PATH, index=False)
+    print("saved", SPLITS_PATH)
 
     print("\nVideos and channels per split:")
     print(df.groupby("split").agg(videos=("youtube_id", "size"), channels=("group", "nunique"),

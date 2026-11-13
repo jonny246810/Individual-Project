@@ -18,13 +18,12 @@ import time
 import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
-from pathlib import Path
+
+from common import CHANNELS_PATH, LABELS_PATH
 
 LABELS_URL = ("https://raw.githubusercontent.com/visurg-ai/LEMON/"
               "24db5b167ee6c1c296ab05641f56ec34c1ee64cc/labels.json")
 LABELS_SHA256 = "8365f1bae6452bf91951a900961460373c436c1e6aeb2530d5c6c5ef18a909ad"
-LABELS_PATH = Path("data/raw/labels.json")
-CHANNELS_PATH = Path("data/meta/channels.csv")
 OEMBED = "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v={}&format=json"
 
 

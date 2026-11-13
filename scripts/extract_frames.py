@@ -39,9 +39,8 @@ import pandas as pd
 from huggingface_hub import HfApi, get_token, hf_hub_download, hf_hub_url
 from PIL import Image
 
-INFO = Path("data/meta/video_info.csv")
-# visurg/LEMON is read at this fixed dataset commit, so later changes to the dataset can't change frames.
-LEMON_REVISION = "bcfb79705a8e0dc20d3c4f79a2c1037d3ed94e2e"
+from common import LEMON_REPO, LEMON_REVISION, VIDEO_INFO_PATH
+
 # video_info.csv rounds fps to 3 decimals; NTSC rates are really 24000/1001, 30000/1001, 60000/1001.
 # The rounding error grows with frame number (~half a frame by 4 h), so snap them to exact values.
 NTSC = [24000 / 1001, 30000 / 1001, 60000 / 1001]
@@ -84,7 +83,7 @@ def extract_local(video_path, frames, out_dir, quality):
 def extract_remote(video_id, frames, fps, out_dir, quality, token):
     """Seek to each frame in the remote file; only the data around it is fetched."""
     out_dir.mkdir(parents=True, exist_ok=True)
-    url = hf_hub_url("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset",
+    url = hf_hub_url(LEMON_REPO, f"{video_id}.mp4", repo_type="dataset",
                      revision=LEMON_REVISION)
     for f in frames:
         ss = max(0.0, (f - 0.5) / fps)
@@ -97,7 +96,7 @@ def extract_remote(video_id, frames, fps, out_dir, quality, token):
 
 def download_and_extract(video_id, frames, out_dir, quality):
     with tempfile.TemporaryDirectory() as tmp:
-        path = Path(hf_hub_download("visurg/LEMON", f"{video_id}.mp4", repo_type="dataset",
+        path = Path(hf_hub_download(LEMON_REPO, f"{video_id}.mp4", repo_type="dataset",
                                     revision=LEMON_REVISION, local_dir=tmp))
         extract_local(path, frames, out_dir, quality)
 
@@ -134,7 +133,7 @@ def main():
     args = ap.parse_args()
 
     df = pd.read_csv(args.frame_list)
-    fps = {k: exact_fps(v) for k, v in pd.read_csv(INFO).set_index("youtube_id").fps.items()}
+    fps = {k: exact_fps(v) for k, v in pd.read_csv(VIDEO_INFO_PATH).set_index("youtube_id").fps.items()}
     token = get_token()
     if args.check:
         check(df, fps, args.check, args.quality, token)
