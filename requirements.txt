@@ -12,3 +12,6 @@ matplotlib==3.11.2
 scikit-learn==1.9.1
 torch==2.15.0
 torchvision==0.29.2
+
+# Intra-annotator test (experiments/intra_annotator/)
+scipy==1.18.1
