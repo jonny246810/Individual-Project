@@ -34,13 +34,14 @@ EIGHT_CONNECTED = np.ones((3, 3), bool)
 
 
 def read_labelmap(run_dir):
-    """labelmap.txt lines look like 'instrument:144,155,48::'. Returns {label: (r, g, b)}."""
+    """labelmap.txt lines look like 'instrument:144,155,48::'. Returns {label: (r, g, b)} with lower-case
+    label names, so the practice label 'instrument' and the group protocol's 'Instrument' both match."""
     colours = {}
     for line in (run_dir / "labelmap.txt").read_text().splitlines():
         if line.startswith("#") or not line.strip():
             continue
         name, rgb = line.split(":")[:2]
-        colours[name] = tuple(int(v) for v in rgb.split(","))
+        colours[name.lower()] = tuple(int(v) for v in rgb.split(","))
     return colours
 
 
